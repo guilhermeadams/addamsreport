@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Report Generator</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="app.js"></script>
+</head>
+
+<body>
+    <div class="container">
+        <h1 class="mt-4 mb-3">Veterinary Report Generator</h1>
+
+        <form id="reportForm">
+            <div class="form-group">
+                <label for="patientName">Nome do Paciente:</label>
+                <input type="text" class="form-control" id="patientName" name="patientName" required>
+            </div>
+            <div class="form-group">
+                <label for="patientID">ID do Paciente:</label>
+                <input type="text" class="form-control" id="patientID" name="patientID" required>
+            </div>
+            <div class="form-group">
+                <label for="species">Espécie:</label>
+                <select class="form-control" id="species" name="species" required>
+                    <option value="Can">Canino</option>
+                    <option value="Fel">Felino</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="sex">Sexo:</label>
+                <select class="form-control" id="sex" name="sex" required>
+                    <option value="M">Macho</option>
+                    <option value="F">Fêmea</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="ageYears">Idade (anos):</label>
+                <input type="number" class="form-control" id="ageYears" name="ageYears" min="0" required>
+            </div>
+            <div class="form-group">
+                <label for="ageMonths">Idade (meses):</label>
+                <input type="number" class="form-control" id="ageMonths" name="ageMonths" min="0" max="11" required>
+            </div>
+            <div class="form-group">
+                <label for="veterinarian">Veterinário Requisistante:</label>
+                <input type="text" class="form-control" id="veterinarian" name="veterinarian" required />
+            </div>
+            <div class="form-group">
+                <label for="reportDate">Data do Relatório:</label>
+                <input type="date" class="form-control" id="reportDate" name="reportDate" required>
+            </div>
+            <div class="form-group">
+                <label for="reportTime">Hora do Relatório:</label>
+                <input type="time" class="form-control" id="reportTime" name="reportTime" required>
+            </div>
+            <div class="form-group">
+                <table class="table table-bordered">
+                    <thead>
+                        <tr>
+                            <th>Estrutura</th>
+                            <th>Normal</th>
+                            <th>Anormal</th>
+                            <th>Não visibilizada</th>
+                            <th>Comentários</th>
+                            <th>Códigos</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <!-- Rows will be dynamically added here -->
+                    </tbody>
+                </table>
+
+                <div class="form-group">
+                    <label for="diagnosticImpression">Impressão Diagnóstica:</label>
+                    <textarea class="form-control" id="diagnosticImpression" name="diagnosticImpression"
+                        rows="5"></textarea>
+                </div>
+
+                <button type="submit" class="btn btn-primary">Gerar Relatório</button>
+            </div>
+        </form>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.3.5/jspdf.min.js"></script>
+    <scrip>
+<img src="#" data-src="image.jpg" class="lazy-load">
+
+
+        </script>
+</body>
+
+</html>

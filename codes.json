@@ -1,0 +1,2333 @@
+[
+  {
+    "codigo": "ADDANDN",
+    "comentario": "aumentada de tamanho, medindo <var1> cm x <var2> cm x <var3> cm (polo caudal x polo cranial x comprimento).",
+    "impressao_diagnostica": "Adrenomegalia direita, não podendo descartar por completo processo neoplásico.",
+    "status": "ANORMAL",
+    "orgao": "ADRENAL DIREITA"
+  },
+  {
+    "codigo": "ADDAPCA",
+    "comentario": "aumentada de tamanho em polo caudal, medindo <var1> cm x <var2> cm x <var3> cm (polo caudal x polo cranial x comprimento)",
+    "impressao_diagnostica": "Adrenomegalia direita.",
+    "status": "ANORMAL",
+    "orgao": "ADRENAL DIREITA"
+  },
+  {
+    "codigo": "ADDAF",
+    "comentario": "formato mantido, bordas regulares, distinção corticomedular e ecogenicidade preservadas. Medindo <var1> cm x <var2> cm x <var3> cm (polo caudal x polo cranial x comprimento).",
+    "impressao_diagnostica": "Adrenomegalia direita/bilateral podendo estar associada a nefropatia, estresse ou endocrinopatia.",
+    "status": "ANORMAL",
+    "orgao": "ADRENAL DIREITA"
+  },
+  {
+    "codigo": "ADDAPF",
+    "comentario": "aumentada de tamanho, medindo <var1> cm x <var2> cm x <var3> cm (polo caudal x polo cranial x comprimento), com perda de seu formato habitual, estando discretamente irregular, com perda da relação corticomedular.",
+    "impressao_diagnostica": "Adrenomegalia direita.",
+    "status": "ANORMAL",
+    "orgao": "ADRENAL DIREITA"
+  },
+  {
+    "codigo": "ADDDIM",
+    "comentario": "diminuída de tamanho, medindo <var1> cm x <var2> cm x <var3> cm (polo caudal x polo cranial x comprimento).",
+    "impressao_diagnostica": "Adrenal direita diminuída de tamanho.",
+    "status": "ANORMAL",
+    "orgao": "ADRENAL DIREITA"
+  },
+  {
+    "codigo": "ADDA",
+    "comentario": "aumentada de tamanho, medindo <var1> cm x <var2> cm x <var3> cm (polo caudal x polo cranial x comprimento)",
+    "impressao_diagnostica": "Adrenomegalia direita.",
+    "status": "ANORMAL",
+    "orgao": "ADRENAL DIREITA"
+  },
+  {
+    "codigo": "ADD+",
+    "comentario": "aumentada de tamanho, medindo <var1> cm x <var2> cm x <var3> cm (polo caudal x polo cranial x comprimento)",
+    "impressao_diagnostica": "Adrenomegalia direita",
+    "status": "ANORMAL",
+    "orgao": "ADRENAL DIREITA"
+  },
+  {
+    "codigo": "ADD",
+    "comentario": "<var1> cm x <var2> cm x <var3> cm (polo caudal x polo cranial x comprimento)",
+    "impressao_diagnostica": null,
+    "status": "NORMAL",
+    "orgao": "ADRENAL DIREITA"
+  },
+  {
+    "codigo": "ADEANDN",
+    "comentario": "aumentada de tamanho, medindo <var1> cm x <var2> cm x <var3> cm (polo caudal x polo cranial x comprimento).",
+    "impressao_diagnostica": "Adrenomegalia esquerda, não podendo descartar por completo processo neoplásico.",
+    "status": "ANORMAL",
+    "orgao": "ADRENAL ESQUERDA"
+  },
+  {
+    "codigo": "ADEAPCA",
+    "comentario": "aumentada de tamanho em polo caudal, medindo <var1> cm x <var2> cm x <var3> cm (polo caudal x polo cranial x comprimento)",
+    "impressao_diagnostica": "Adrenomegalia esquerda.",
+    "status": "ANORMAL",
+    "orgao": "ADRENAL ESQUERDA"
+  },
+  {
+    "codigo": "ADEAF",
+    "comentario": "formato mantido, bordas regulares, distinção corticomedular e ecogenicidade preservadas. Medindo <var1> cm x <var2> cm x <var3> cm (polo caudal x polo cranial x comprimento).",
+    "impressao_diagnostica": "Adrenomegalia esquerda/bilateral podendo estar associada a nefropatia, estresse ou endocrinopatia.",
+    "status": "ANORMAL",
+    "orgao": "ADRENAL ESQUERDA"
+  },
+  {
+    "codigo": "ADEAPF",
+    "comentario": "aumentada de tamanho, medindo <var1> cm x <var2> cm x <var3> cm (polo caudal x polo cranial x comprimento), com perda de seu formato habitual, estando discretamente irregular, com perda da relação corticomedular.",
+    "impressao_diagnostica": "Adrenomegalia esquerda.",
+    "status": "ANORMAL",
+    "orgao": "ADRENAL ESQUERDA"
+  },
+  {
+    "codigo": "ADEAPCRA",
+    "comentario": "aumentada de tamanho em polo cranial, medindo <var1> cm x <var2> cm x <var3> cm (polo caudal x polo cranial x comprimento)",
+    "impressao_diagnostica": "Adrenomegalia esquerda.",
+    "status": "ANORMAL",
+    "orgao": "ADRENAL ESQUERDA"
+  },
+  {
+    "codigo": "ADEA",
+    "comentario": "aumentada de tamanho, medindo <var1> cm x <var2> cm x <var3> cm (polo caudal x polo cranial x comprimento)",
+    "impressao_diagnostica": "Adrenomegalia esquerda.",
+    "status": "ANORMAL",
+    "orgao": "ADRENAL ESQUERDA"
+  },
+  {
+    "codigo": "ADE+",
+    "comentario": "aumentada de tamanho, medindo <var1> cm x <var2> cm x <var3> cm (polo caudal x polo cranial x comprimento)",
+    "impressao_diagnostica": "Adrenomegalia esquerda",
+    "status": "ANORMAL",
+    "orgao": "ADRENAL ESQUERDA"
+  },
+  {
+    "codigo": "ADE",
+    "comentario": "<var1> cm x <var2> cm x <var3> cm (polo caudal x polo cranial x comprimento)",
+    "impressao_diagnostica": null,
+    "status": "NORMAL",
+    "orgao": "ADRENAL ESQUERDA"
+  },
+  {
+    "codigo": "BAMA",
+    "comentario": "Em baço nota-se estrutura de aspecto massa, medindo pelo menos <var1> cm x <var2> cm, de margens irregulares e limites mal definidos. Vascularização presente ao modo Power Doppler.",
+    "impressao_diagnostica": "Massa esplênica. Dentre os principais diagnósticos diferencias  incluem-se o de processo neoplásico. Caso clinicamente indicado, sugerem-se exames complementates.",
+    "status": "ANORMAL",
+    "orgao": "BAÇO"
+  },
+  {
+    "codigo": "BCND",
+    "comentario": "FALTA CADASTRAR",
+    "impressao_diagnostica": "FALTA CADASTRAR",
+    "status": "ANORMAL",
+    "orgao": "BAÇO"
+  },
+  {
+    "codigo": "NODBACHIPO",
+    "comentario": "em cabeça esplênica nota-se nódulo hipoecóico, margens regulares e limites bem definidos, medindo <var1> cm X <var2> cm",
+    "impressao_diagnostica": "O nódulo em baço possui como principais diagnósticos diferenciais: hiperplasia nodular (comum em pacientes de meia idade e idosos), hematopoiese extramedular. Caso suspeita de metástase sugere-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "BAÇO"
+  },
+  {
+    "codigo": "BREA",
+    "comentario": "tamanho, forma, contorno e ecotextura preservadas. Parênquima com ecogenicidade diminuída.",
+    "impressao_diagnostica": "Baço: reativo a processo inflamatório/infeccioso/toxêmico.",
+    "status": "ANORMAL",
+    "orgao": "BAÇO"
+  },
+  {
+    "codigo": "BNHIPOC",
+    "comentario": "em cabeça esplênica nota-se nódulo hipoecóico, moderadamente heterogêneo, margens irregulares, porém, limites bem definidos, medindo <var1>",
+    "impressao_diagnostica": "Nódulo em baço.",
+    "status": "ANORMAL",
+    "orgao": "BAÇO"
+  },
+  {
+    "codigo": "BNHIPO",
+    "comentario": "Em corpo esplênico nota-se nódulo hipoecóico, medindo <var1> cm, de margens regulares e limites bem definidos.",
+    "impressao_diagnostica": "Nódulo em baço. Sugere-se acompanhamento ultrassonográfico.",
+    "status": "ANORMAL",
+    "orgao": "BAÇO"
+  },
+  {
+    "codigo": "BCONHI",
+    "comentario": "tamanho, forma, contorno, ecogenicidade e ecotextura preservadas. Em corpo esplênico nota-se nódulo hipoecóico, medindo <var1> cm x <var2> cm, de limites bem definidos e margens irregulares.",
+    "impressao_diagnostica": "O nódulo em baço possui como principais diagnósticos diferenciais: hiperplasia nodular (comum em pacientes de meia idade e idosos), hematopoiese extramedular. Caso suspeita de metástase sugere-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "BAÇO"
+  },
+  {
+    "codigo": "HMT",
+    "comentario": "aumentado de tamanho, porém com forma, contorno e ecogenicidade preservadas. Parênquima heterogêneo apresentando pequenos pontos hipoecóicos multifocais de margens bem definidas e regulares.",
+    "impressao_diagnostica": "Esplenomegalia.\r\nImagens ultrassonográficas esplênicas são sugestivas de hematopoiese extramedular, reatividade a processo inflamatório/infeccioso, não podendo descartar por completo processo neoplásico.",
+    "status": "ANORMAL",
+    "orgao": "BAÇO"
+  },
+  {
+    "codigo": "BARNDN",
+    "comentario": "Baço aumentado de tamanho, apresentando ecotextura heterogênea e ecogenicidade mista, com margens de discreta a moderadamente irregulares.",
+    "impressao_diagnostica": "Baço: esplenomegalia. Reativo a processo inflamatório / infeccioso não podendo descartar por completo processo neoplásico.",
+    "status": "ANORMAL",
+    "orgao": "BAÇO"
+  },
+  {
+    "codigo": "HEMATO",
+    "comentario": "aumentado de tamanho, porém com forma, contorno e ecogenicidade preservadas. Parênquima heterogêneo apresentando pequenos pontos hipoecóicos multifocais de margens bem definidas e regulares.",
+    "impressao_diagnostica": "Esplenomegalia.\r\nImagens ultrassonográficas esplênicas são sugestivas de hematopoiese extramedular, reatividade a processo inflamatório/infeccioso, não podendo descartar por completo processo neoplásico.",
+    "status": "ANORMAL",
+    "orgao": "BAÇO"
+  },
+  {
+    "codigo": "HEMATOPOIESE",
+    "comentario": "aumentado de tamanho, porém com forma, contorno e ecogenicidade preservadas. Parênquima heterogêneo apresentando pequenos pontos hipoecóicos multifocais de margens bem definidas e regulares.",
+    "impressao_diagnostica": "Esplenomegalia.\r\nImagens ultrassonográficas esplênicas são sugestivas de hematopoiese extramedular, reatividade a processo inflamatório/infeccioso, não podendo descartar por completo processo neoplásico.",
+    "status": "ANORMAL",
+    "orgao": "BAÇO"
+  },
+  {
+    "codigo": "B+",
+    "comentario": "aumentado de tamanho, margens discretamente arredondadas, porém, contorno, ecogenicidade e ecotextura preservadas.",
+    "impressao_diagnostica": "Esplenomegalia",
+    "status": "ANORMAL",
+    "orgao": "BAÇO"
+  },
+  {
+    "codigo": "BA",
+    "comentario": "aumentado de tamanho, margens discretamente arredondadas, porém, contorno, ecogenicidade e ecotextura preservadas.",
+    "impressao_diagnostica": "Esplenomegalia",
+    "status": "ANORMAL",
+    "orgao": "BAÇO"
+  },
+  {
+    "codigo": "BAR",
+    "comentario": "aumentado de tamanho, forma, contorno e ecotextura preservadas. Parênquima com ecogenicidade diminuída.",
+    "impressao_diagnostica": "Esplenomegalia.aumentado de tamanho, forma, contorno e ecotextura preservadas. Parênquima com ecogenicidade diminuída.",
+    "status": "ANORMAL",
+    "orgao": "BAÇO"
+  },
+  {
+    "codigo": "BXCIA",
+    "comentario": "FALTA CADASTRAR BXCIA!!!!",
+    "impressao_diagnostica": "FALTA CADASTRAR BXCIA!!!!",
+    "status": "ANORMAL",
+    "orgao": "BEXIGA"
+  },
+  {
+    "codigo": "CALCULOBX",
+    "comentario": "em parede dorsal nota-se estrutura hiperecogênica.",
+    "impressao_diagnostica": "Cálculo em bexiga.",
+    "status": "ANORMAL",
+    "orgao": "BEXIGA"
+  },
+  {
+    "codigo": "BXDIL",
+    "comentario": "Dilatada por conteúdo anecogênico.",
+    "impressao_diagnostica": null,
+    "status": "ANORMAL",
+    "orgao": "BEXIGA"
+  },
+  {
+    "codigo": "BXCMA",
+    "comentario": "repleta por conteúdo anecogênico, com parede cranioventral espessadas e irregulares, medindo <var1> cm. Em parede dorsal nota-se múltiplas estrutura hiperecogênicas, formadoras de sombreamento acústico posterior, medindo <var2> cm a maior e <var3> cm a menor.",
+    "impressao_diagnostica": "Bexiga: processo inflamatório/infeccioso (cistite). Múltiplos cálculos em bexiga.",
+    "status": "ANORMAL",
+    "orgao": "BEXIGA"
+  },
+  {
+    "codigo": "MESADJHIPERBX",
+    "comentario": "Mesentério adjacente à bexiga com aumento da ecogenicidade.",
+    "impressao_diagnostica": "O aumento da ecogenicidade de mesentério adjacente à bexiga é indicativo de reatividade a processo inflamatório / infeccioso.",
+    "status": "ANORMAL",
+    "orgao": "BEXIGA"
+  },
+  {
+    "codigo": "MESADJBXREA",
+    "comentario": "Mesentério adjacente à bexiga com aumento da ecogenicidade.",
+    "impressao_diagnostica": "O aumento da ecogenicidade de mesentério adjacente à bexiga é indicativo de reatividade a processo inflamatório / infeccioso.",
+    "status": "ANORMAL",
+    "orgao": "BEXIGA"
+  },
+  {
+    "codigo": "BXISU",
+    "comentario": "repleta por conteúdo anecogênico, paredes finas e regulares. Importante quantidade de pontos ecogênicos em suspensão e depositados em parede dorsal, não formadores de pouco sombreamento acústico posterior.",
+    "impressao_diagnostica": "Bexiga: importante quantidade de sedimento urinário/debril celular.",
+    "status": "ANORMAL",
+    "orgao": "BEXIGA"
+  },
+  {
+    "codigo": "BXMDB",
+    "comentario": "repleta por conteúdo anecogênico, paredes finas e regulares. Moderada quantidade de pontos ecogênicos em suspensão e depositados em parede dorsal, não formadores de pouco sombreamento acústico posterior.",
+    "impressao_diagnostica": "Bexiga: moderada quantidade de sedimento urinário/debril celular.",
+    "status": "ANORMAL",
+    "orgao": "BEXIGA"
+  },
+  {
+    "codigo": "BXCI",
+    "comentario": "repleção líquida adequada, paredes difusamente espessada e irregulares, medindo <var1> cm. Em parede dorsal nota-se agregados hiperecoicos aderidos à parede.",
+    "impressao_diagnostica": "Bexiga: processo inflamatório/infeccioso, com os demais achados supracitados em comentários, o primeiro diagnóstico diferencial pode estar relacionado a cistite incrustada alcalina.",
+    "status": "ANORMAL",
+    "orgao": "BEXIGA"
+  },
+  {
+    "codigo": "CABX",
+    "comentario": "em parede dorsal nota-se estrutura de superfície hiperecóica, medindo <var1> cm, formando sombreamento acústico posterior.",
+    "impressao_diagnostica": "Cálculo em bexiga.",
+    "status": "ANORMAL",
+    "orgao": "BEXIGA"
+  },
+  {
+    "codigo": "BXCNDN",
+    "comentario": "repleta por conteúdo anecogênico, com parede cranioventral espessadas e irregulares, medindo <var1> cm.",
+    "impressao_diagnostica": "Bexiga: processo inflamatório/infeccioso (cistite) crônica, não podendo descartar por completo processo neoplásico.",
+    "status": "ANORMAL",
+    "orgao": "BEXIGA"
+  },
+  {
+    "codigo": "BXCAME",
+    "comentario": "Cálculo menor medindo <var1> cm.",
+    "impressao_diagnostica": "Cálculo menor em bexiga medindo <var1> cm.",
+    "status": "ANORMAL",
+    "orgao": "BEXIGA"
+  },
+  {
+    "codigo": "BXCAMA",
+    "comentario": "Cálculo maior medindo <var1> cm.",
+    "impressao_diagnostica": "Cálculo maior em bexiga medindo <var1> cm.",
+    "status": "ANORMAL",
+    "orgao": "BEXIGA"
+  },
+  {
+    "codigo": "BXDDC",
+    "comentario": "repleta por conteúdo anecogênico, paredes finas e regulares. Discreta quantidade de pontos ecogênicos em suspensão e depositados em parede dorsal, não formadores de pouco sombreamento acústico posterior.",
+    "impressao_diagnostica": "Bexiga: discreta quantidade de sedimento urinário/debril celular.",
+    "status": "ANORMAL",
+    "orgao": "BEXIGA"
+  },
+  {
+    "codigo": "BXMDC",
+    "comentario": "repleta por conteúdo anecogênico, paredes finas e regulares. Moderada quantidade de pontos ecogênicos em suspensão e depositados em parede dorsal, não formadores de pouco sombreamento acústico posterior.",
+    "impressao_diagnostica": "Bexiga: moderada quantidade de sedimento urinário/debril celular.",
+    "status": "ANORMAL",
+    "orgao": "BEXIGA"
+  },
+  {
+    "codigo": "BXMSU",
+    "comentario": "repleta por conteúdo anecogênico, paredes finas e regulares. Moderada quantidade de pontos ecogênicos depositados em parede dorsal, formadores de pouco sombreamento acústico posterior.",
+    "impressao_diagnostica": "Bexiga: moderada quantidade de sedimento urinário.",
+    "status": "ANORMAL",
+    "orgao": "BEXIGA"
+  },
+  {
+    "codigo": "BXPDC",
+    "comentario": "repleta por conteúdo anecogênico, nota-se pouca quantidade de pontos ecogênicos em suspensão e depositados em parede dorsal.",
+    "impressao_diagnostica": "Bexiga: pouca quantidade de debris celulares / sedimentos urinários em bexiga.",
+    "status": "ANORMAL",
+    "orgao": "BEXIGA"
+  },
+  {
+    "codigo": "BXPSU",
+    "comentario": "repleta por conteúdo anecogênico, nota-se pouca quantidade de pontos ecogênicos em suspensão e depositados em parede dorsal.",
+    "impressao_diagnostica": "Bexiga: pouca quantidade de debris celulares / sedimentos urinários em bexiga.",
+    "status": "ANORMAL",
+    "orgao": "BEXIGA"
+  },
+  {
+    "codigo": "BXCPR",
+    "comentario": "pouca repleção por conteúdo anecogênico, com parede cranioventral espessadas e irregulares, medindo <var1> cm.",
+    "impressao_diagnostica": "Bexiga: processo inflamatório/infeccioso (cistite).",
+    "status": "ANORMAL",
+    "orgao": "BEXIGA"
+  },
+  {
+    "codigo": "MABXR",
+    "comentario": "Mesentério adjacente à bexiga com aumento da ecogenicidade.",
+    "impressao_diagnostica": "O aumento da ecogenicidade de mesentério adjacente à bexiga é indicativo de reatividade a processo inflamatório / infeccioso.",
+    "status": "ANORMAL",
+    "orgao": "BEXIGA"
+  },
+  {
+    "codigo": "BXGQDC",
+    "comentario": "Grande quantidade de pontos ecogênicos em suspensão e depositados em parede dorsal.",
+    "impressao_diagnostica": "Bexiga: grande quantidade de sedimentos urinários / debris celulares.",
+    "status": "ANORMAL",
+    "orgao": "BEXIGA"
+  },
+  {
+    "codigo": "BXCAAB",
+    "comentario": "CALCULO EM BEXIGA APÓS BALOTAMENTO - DESC E IMP ATUALIZARÃO DEPOIS",
+    "impressao_diagnostica": "CORRIGIR DESCRIÇÃO E IMPRESSÃO DIAGNÓSTICA DE BXCAAB",
+    "status": "ANORMAL",
+    "orgao": "BEXIGA"
+  },
+  {
+    "codigo": "BXCOAG",
+    "comentario": "em parede dorsal nota-se estrutura amorfa, ecogênica, de limites mal definidos e irregulares, medindo <var1> cm.",
+    "impressao_diagnostica": "Coágulo em bexiga.",
+    "status": "ANORMAL",
+    "orgao": "BEXIGA"
+  },
+  {
+    "codigo": "BXCA",
+    "comentario": "em parede dorsal nota-se estrutura de superfície hiperecóica, medindo <var1> cm, formando sombreamento acústico posterior.",
+    "impressao_diagnostica": "Cálculo em bexiga.",
+    "status": "ANORMAL",
+    "orgao": "BEXIGA"
+  },
+  {
+    "codigo": "CISTITE",
+    "comentario": "repleta por conteúdo anecogênico, com parede cranioventral espessadas e irregulares, medindo <var1> cm.",
+    "impressao_diagnostica": "Bexiga: processo inflamatório/infeccioso (cistite).",
+    "status": "ANORMAL",
+    "orgao": "BEXIGA"
+  },
+  {
+    "codigo": "BXC",
+    "comentario": "Repleta por conteúdo anecogênico, com parede cranio ventral espessadas e irregulares, medindo <var1> cm.",
+    "impressao_diagnostica": "Bexiga: processo inflamatório/infeccioso (cistite).",
+    "status": "ANORMAL",
+    "orgao": "BEXIGA"
+  },
+  {
+    "codigo": "CECOLON",
+    "comentario": "nota-se estrutura de superfície hiperecogênica, formadora de sombreamento acústico posterior, medindo <var1> cm, sem perfuração ou obstrução no momento deste exame.",
+    "impressao_diagnostica": "Cólon: corpo estranho em cólon, sem perfuração ou obstrução no momento deste exame.",
+    "status": "ANORMAL",
+    "orgao": "CÓLON"
+  },
+  {
+    "codigo": "CPCM",
+    "comentario": "Cólon com paredes finas e estratificação parietal preservada, porém preenchido por conteúdo mucoso.",
+    "impressao_diagnostica": "Cólon preenchido por conteúdo mucoso. Caso clinicamente indicado sugere-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "CÓLON"
+  },
+  {
+    "codigo": "COL",
+    "comentario": "Cólon descendente com parede espessada (medindo aproximadamente <var1> cm), porém, com relação parietal preservada.",
+    "impressao_diagnostica": "Cólon: processo inflamatório/infeccioso (colite).",
+    "status": "ANORMAL",
+    "orgao": "CÓLON"
+  },
+  {
+    "codigo": "COLON",
+    "comentario": "espessura preservada, medindo <var1> cm. Estratificação parietal preservada.",
+    "impressao_diagnostica": null,
+    "status": "NORMAL",
+    "orgao": "CÓLON"
+  },
+  {
+    "codigo": "COLONE",
+    "comentario": "parede espessada, medindo aproximadamente <var1> cm. Estratificação parietal mantida,",
+    "impressao_diagnostica": "Cólon: processo inflamatório/infeccioso (colite).",
+    "status": "ANORMAL",
+    "orgao": "CÓLON"
+  },
+  {
+    "codigo": "GASTROENTERITE",
+    "comentario": "Cólon ascendente, transverso e descendente dilatados conteúdo anecogênico, com paredes finas",
+    "impressao_diagnostica": null,
+    "status": "ANORMAL",
+    "orgao": "CÓLON"
+  },
+  {
+    "codigo": "COLITE",
+    "comentario": "Cólon descendente com parede espessada (medindo aproximadamente <var1> cm), porém, com relação parietal preservada.",
+    "impressao_diagnostica": "Cólon descendente: processo inflamatório / infeccioso (colite).",
+    "status": "ANORMAL",
+    "orgao": "CÓLON"
+  },
+  {
+    "codigo": "SUBMFEL",
+    "comentario": "Submucosa\r\nespessada, medindo <var1> cm em espessura maior.",
+    "impressao_diagnostica": "Submucosa espessada em felinos pode ser um indicativo de deposição de gordura, porém, não se descarta processo neoplásico. Sugerem-se exames complementares e acompanhamento ultrassonográfico a critério clínico.",
+    "status": "ANORMAL",
+    "orgao": "ESTÔMAGO"
+  },
+  {
+    "codigo": "ESTUL",
+    "comentario": "repleto por conteúdo gasoso e mucoso. Parede espessa em corpo gástrico (medindo aproximadamente <var1> cm) com estratificação parietal mantida. Em corpo de fundo gástrico nota-se discreta descontinuidade de camada mucosa (provável).",
+    "impressao_diagnostica": "Estômago: processo inflamatório/infeccioso (gastrite) associado a prováveis úlceras gástricas. Caso clinicamente indicado sugere-se realização de endoscopia digestiva.",
+    "status": "ANORMAL",
+    "orgao": "ESTÔMAGO"
+  },
+  {
+    "codigo": "GASTROENTERITE",
+    "comentario": "1",
+    "impressao_diagnostica": "1",
+    "status": "ANORMAL",
+    "orgao": "ESTÔMAGO"
+  },
+  {
+    "codigo": "ESTDILCA",
+    "comentario": "Estômago dilatado por conteúdo alimentar.",
+    "impressao_diagnostica": "Estômago: dilatado por conteúdo alimentar. Caso clinicamente indicado, sugere-se acompanhamento ultrassonográfico com o animal em jejum",
+    "status": "ANORMAL",
+    "orgao": "ESTÔMAGO"
+  },
+  {
+    "codigo": "TRICO",
+    "comentario": "com conteúdo luminal de padrão misto (gás e alimento), paredes de aspecto sonográfico mantido com padrão em camadas. Em fundo gástrico nota-se estrutura de superfície hiperecogênica formadora de discreto sombreamento acústico posterior medindo <var1> cm.",
+    "impressao_diagnostica": "Estômago: provável tricobezoar (bola de pelo).",
+    "status": "ANORMAL",
+    "orgao": "ESTÔMAGO"
+  },
+  {
+    "codigo": "AEROEST",
+    "comentario": "repleto por conteúdo gasoso (aerofagia), paredes de aspecto sonográfico mantido com padrão em camadas.",
+    "impressao_diagnostica": "Estômago: dilatado (aerofagia). Caso clinicamente indicado sugere-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "ESTÔMAGO"
+  },
+  {
+    "codigo": "ESTLL",
+    "comentario": "Nota-se adjacente ao estômago conteúdo anecogênico livre.",
+    "impressao_diagnostica": "Líquido livre adjacente ao estômago no momento deste exame, caso clinicamente indicado sugere-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "ESTÔMAGO"
+  },
+  {
+    "codigo": "ESTMR",
+    "comentario": "Mesentério adjacente ao estômago com aumento da ecogenicidade.",
+    "impressao_diagnostica": "O aumento da ecogenicidade de mesentério adjacente ao estômago é indicativo de reatividade a processo inflamatório / infeccioso.",
+    "status": "ANORMAL",
+    "orgao": "ESTÔMAGO"
+  },
+  {
+    "codigo": "ESTCAD",
+    "comentario": "preenchido por conteúdo gasoso, mucoso e alimentar denso, medindo a estrutura densa <var1> cm, formando sombreamento acústico posterior, paredes de aspecto sonográfico mantido com padrão em camadas, não podendo descartar por completo corpo estranho.",
+    "impressao_diagnostica": "A estrutura caracterizada em estômago é compatível com conteúdo alimentar denso, não podendo descartar por completo corpo estranho. Caso clinicamente indicado sugere-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "ESTÔMAGO"
+  },
+  {
+    "codigo": "ESTINFNDN",
+    "comentario": "repleto por conteúdo gasoso e mucoso. Parede espessa em corpo gástrico (medindo aproximadamente <var1> cm) com estratificação parietal mantida.",
+    "impressao_diagnostica": "Estômago: processo inflamatório / infeccioso (gastrite) não podendo descartar por completo processo neoplásico",
+    "status": "ANORMAL",
+    "orgao": "ESTÔMAGO"
+  },
+  {
+    "codigo": "ESYINF",
+    "comentario": "repleto por conteúdo gasoso e mucoso. Parede espessa em corpo gástrico (medindo aproximadamente <var1> cm) com estratificação parietal mantida.",
+    "impressao_diagnostica": "Estômago: processo inflamatório / infeccioso (gastrite).",
+    "status": "ANORMAL",
+    "orgao": "ESTÔMAGO"
+  },
+  {
+    "codigo": "ESTDILCA",
+    "comentario": "preenchido por conteúdo gasoso, mucos e alimentar, paredes de aspecto sonográfico mantido com padrão em camadas.",
+    "impressao_diagnostica": "Estômago: dilatado por conteúdo alimentar no momento deste exame, caso clinicamente indicado sugere-se acompanhamento ultrassonográfico",
+    "status": "ANORMAL",
+    "orgao": "ESTÔMAGO"
+  },
+  {
+    "codigo": "ESTDIL",
+    "comentario": "dilatado por conteúdo gasoso, mucoso e alimentar denso, medindo a estrutura densa <var1> cm, formando sombreamento acústico posterior, paredes de aspecto sonográfico mantido com padrão em camadas.",
+    "impressao_diagnostica": "A estrutura caracterizada em estômago é compatível com conteúdo alimentar denso.",
+    "status": "ANORMAL",
+    "orgao": "ESTÔMAGO"
+  },
+  {
+    "codigo": "ESTTRICO",
+    "comentario": "com conteúdo luminal de padrão misto (gás e alimento), paredes de aspecto sonográfico mantido com padrão em camadas. Em fundo gástrico nota-se estrutura de superfície hiperecogênica formadora de discreto sombreamento acústico posterior medindo <var1> cm.",
+    "impressao_diagnostica": "Estômago: provável tricobezoar (bola de pelo).",
+    "status": "ANORMAL",
+    "orgao": "ESTÔMAGO"
+  },
+  {
+    "codigo": "TRICOBEZOAR",
+    "comentario": "com conteúdo luminal de padrão misto (gás e alimento), paredes de aspecto sonográfico mantido com padrão em camadas. Em fundo gástrico nota-se estrutura de superfície hiperecogênica formadora de discreto sombreamento acústico posterior medindo <var1> cm.",
+    "impressao_diagnostica": "Estômago: provável tricobezoar (bola de pelo).",
+    "status": "ANORMAL",
+    "orgao": "ESTÔMAGO"
+  },
+  {
+    "codigo": "TRICOBEZO",
+    "comentario": "com conteúdo luminal de padrão misto (gás e alimento), paredes de aspecto sonográfico mantido com padrão em camadas. Em fundo gástrico nota-se estrutura de superfície hiperecogênica formadora de discreto sombreamento acústico posterior medindo <var1> cm.",
+    "impressao_diagnostica": "Estômago: provável tricobezoar (bola de pelo).",
+    "status": "ANORMAL",
+    "orgao": "ESTÔMAGO"
+  },
+  {
+    "codigo": "EDCA",
+    "comentario": "Estômago dilatado por conteúdo alimentar.",
+    "impressao_diagnostica": "Estômago: dilatado por conteúdo alimentar. Caso clinicamente indicado, sugere-se acompanhamento.",
+    "status": "ANORMAL",
+    "orgao": "ESTÔMAGO"
+  },
+  {
+    "codigo": "ESTINF",
+    "comentario": "repleto por conteúdo gasoso e mucoso. Parede espessa em corpo gástrico (medindo aproximadamente cm) com estratificação parietal mantida.",
+    "impressao_diagnostica": "Estômago: processo inflamatório / infeccioso (gastrite).",
+    "status": "ANORMAL",
+    "orgao": "ESTÔMAGO"
+  },
+  {
+    "codigo": "AEROFAGIA",
+    "comentario": "repleto por conteúdo gasoso (aerofagia), paredes de aspecto sonográfico mantido com padrão em camadas.",
+    "impressao_diagnostica": "Estômago: dilatado (aerofagia). Caso clinicamente indicado sugere-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "ESTÔMAGO"
+  },
+  {
+    "codigo": "AERO",
+    "comentario": "repleto por conteúdo gasoso (aerofagia), paredes de aspecto sonográfico mantido com padrão em camadas.",
+    "impressao_diagnostica": "Estômago: dilatado (aerofagia). Caso clinicamente indicado sugere-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "ESTÔMAGO"
+  },
+  {
+    "codigo": "AEROFAG",
+    "comentario": "repleto por conteúdo gasoso (aerofagia), paredes de aspecto sonográfico mantido com padrão em camadas.",
+    "impressao_diagnostica": "Estômago: dilatado (aerofagia). Caso clinicamente indicado sugere-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "ESTÔMAGO"
+  },
+  {
+    "codigo": "GASTROENTERITE",
+    "comentario": "dilatado por conteúdo anecogênico e mucoso. Parede espessa, com perda da estratificação parietal. Ausência de movimentos peristálticos.",
+    "impressao_diagnostica": "Imagens ultrassonográficas de estômago, intestino delgado e grosso são compatíveis com importante processo inflamatório / infeccioso.",
+    "status": "ANORMAL",
+    "orgao": "ESTÔMAGO"
+  },
+  {
+    "codigo": "EGAS",
+    "comentario": "repleto por conteúdo gasoso e mucoso. Parede espessa em corpo gástrico (medindo aproximadamente <var1> cm) com estratificação parietal mantida.",
+    "impressao_diagnostica": "Estômago: processo inflamatório/infeccioso (gastrite).",
+    "status": "ANORMAL",
+    "orgao": "ESTÔMAGO"
+  },
+  {
+    "codigo": "EG",
+    "comentario": "repleto por conteúdo gasoso e mucoso. Parede espessa em corpo gástrico (medindo aproximadamente <var1> cm) com estratificação parietal mantida.",
+    "impressao_diagnostica": "Estômago: processo inflamatório/infeccioso (gastrite).",
+    "status": "ANORMAL",
+    "orgao": "ESTÔMAGO"
+  },
+  {
+    "codigo": "CEEST",
+    "comentario": "Em fundo gástrico nota-se estrutura de superfície hiperecogênica, formadora de sombreamento acústico posterior, medindo <var1> cm, sem perfuração ou obstrução no momento deste exame.",
+    "impressao_diagnostica": "Estômago: corpo estranho em estômago, sem perfuração ou obstrução no momento deste exame.",
+    "status": "ANORMAL",
+    "orgao": "ESTÔMAGO"
+  },
+  {
+    "codigo": "FIGUVA",
+    "comentario": "de dimensões dentro dos limites do gradil costal, superfície rugosa, margens afiladas e irregulares, ecotextura pouco heterogênea. Ecogenicidade mista. Arquitetura vascular portal e intra-hepática tortuosas.",
+    "impressao_diagnostica": "Fígado: processo inflamatório/infeccioso crônico e/ou processo neoplásico.",
+    "status": "ANORMAL",
+    "orgao": "FÍGADO"
+  },
+  {
+    "codigo": "FAHIFEL",
+    "comentario": "de dimensões fora dos limites do gradil costal, superfície lisa, margens afiladas, ecotextura preservada, porém, ecogenicidade aumentada. Arquitetura vascular portal e intra-hepática preservadas quanto ao calibre e trajeto dos vasos.",
+    "impressao_diagnostica": "Hepatomegalia. O aumento da ecogenicidade hepática pode estar relacionado a deposição de gordura (comum em gatos idosos e/ou obesos), porém, não se descarta lipidose, colangiohepatite crônica.'",
+    "status": "ANORMAL",
+    "orgao": "FÍGADO"
+  },
+  {
+    "codigo": "FAHIC",
+    "comentario": "de dimensões fora dos limites do gradil costal, superfície lisa, margens afiladas, ecotextura dentro dos limites da normalidade. Ecogenicidade aumentada. Arquitetura vascular portal e intra-hepática preservadas quanto ao calibre e trajeto dos vasos.",
+    "impressao_diagnostica": "Hepatomegalia. O aumento da ecogenicidade hepática possui como principais diagnósticos diferenciais: esteatose (infiltração gordurosa), hepatopatia esteroidal (diabetes mellitus e/ou hipoadrenocorticismo).",
+    "status": "ANORMAL",
+    "orgao": "FÍGADO"
+  },
+  {
+    "codigo": "FARNDN",
+    "comentario": "de dimensões fora dos limites do gradil costal, superfície lisa, margens afiladas, ecotextura dentro dos limites da normalidade. Ecogenicidade diminuída. Arquitetura vascular portal e intra-hepática preservadas quanto ao calibre e trajeto dos vasos.",
+    "impressao_diagnostica": "Hepatomegalia. Fígado reativo a processo inflamatório/infeccioso/toxêmico, não podendo descartar o processo neoplásico.",
+    "status": "ANORMAL",
+    "orgao": "FÍGADO"
+  },
+  {
+    "codigo": "COLANGIO",
+    "comentario": "FALTA CADASTRAR",
+    "impressao_diagnostica": "FALTA CADASTRAR",
+    "status": "ANORMAL",
+    "orgao": "FÍGADO"
+  },
+  {
+    "codigo": "FREA",
+    "comentario": "de dimensões dentro dos limites do gradil costal, superfície lisa, margens afiladas, ecotextura dentro dos limites da normalidade. Ecogenicidade diminuída. Arquitetura vascular portal e intra-hepática preservadas quanto ao calibre e trajeto dos vasos.",
+    "impressao_diagnostica": "Fígado: reativo a processo inflamatório/infeccioso/toxêmico.",
+    "status": "ANORMAL",
+    "orgao": "FÍGADO"
+  },
+  {
+    "codigo": "FAHE",
+    "comentario": "de dimensões fora dos limites do gradil costal, superfície lisa, margens afiladas, ecotextura preservada, porém, ecogenicidade aumentada. Arquitetura vascular portal e intra-hepática preservadas quanto ao calibre e trajeto dos vasos.",
+    "impressao_diagnostica": "Hepatomegalia.\r\nO aumento da ecogenicidade hepática possui como principais diagnósticos diferenciais: esteatose (infiltração gordurosa), hepatopatia esteroidal (diabetes mellitus e/ou hiperadrenocorticismo).",
+    "status": "ANORMAL",
+    "orgao": "FÍGADO"
+  },
+  {
+    "codigo": "FIGHIF",
+    "comentario": "tamanho, forma, contorno e ecotextura preservadas. Bordas afiladas, ecogenicidade aumentada. Vasculatura hepática e portal dentro da normalidade.",
+    "impressao_diagnostica": "O aumento da ecogenicidade de fígado em felinos possui como diagnósticos principais lipidose ou deposição de gordura.",
+    "status": "ANORMAL",
+    "orgao": "FÍGADO"
+  },
+  {
+    "codigo": "FIGAHIC",
+    "comentario": "de dimensões fora dos limites do gradil costal, superfície lisa, margens afiladas, ecotextura dentro dos limites da normalidade. Ecogenicidade aumentada. Arquitetura vascular portal e intra-hepática preservadas quanto ao calibre e trajeto dos vasos.",
+    "impressao_diagnostica": "Hepatomegalia. O aumento da ecogenicidade hepática possui como principais diagnósticos diferenciais: esteatose (infiltração gordurosa), hepatopatia esteroidal (diabetes mellitus e/ou hipoadrenocorticismo).",
+    "status": "ANORMAL",
+    "orgao": "FÍGADO"
+  },
+  {
+    "codigo": "FIGHIC",
+    "comentario": "de dimensões fora dos limites do gradil costal, superfície lisa, margens afiladas, ecotextura dentro dos limites da normalidade. Ecogenicidade aumentada. Arquitetura vascular portal e intra-hepática preservadas quanto ao calibre e trajeto dos vasos.",
+    "impressao_diagnostica": "Hepatomegalia. O aumento da ecogenicidade hepática possui como principais diagnósticos diferenciais: esteatose, hepatopatia esteroidal.",
+    "status": "ANORMAL",
+    "orgao": "FÍGADO"
+  },
+  {
+    "codigo": "NHIFIGD",
+    "comentario": "Em lobo hepático direito nota-se nódulo hiperecoico, medindo <var1> cm, de limites bem definidos e margens regulares.",
+    "impressao_diagnostica": null,
+    "status": "ANORMAL",
+    "orgao": "FÍGADO"
+  },
+  {
+    "codigo": "FACO",
+    "comentario": "de dimensões ultrapassando os limites do gradil costal, superfície lisa, margens arredondadas e ecotextura dentro dos limites da normalidade. Ecogenicidade difusamente diminuída. Veia cava caudal e veias hepáticas dilatadas.",
+    "impressao_diagnostica": "Hepatomegalia.\r\nCongestão venosa hepática. Principais diagnósticos diferenciais: insuficiência cardíaca direita, efusão pericárdica, pericardite restritiva, hipertensão pulmonar, dirofilariose, obstrução da veia cava caudal torácica.",
+    "status": "ANORMAL",
+    "orgao": "FÍGADO"
+  },
+  {
+    "codigo": "FAHIPF",
+    "comentario": "de dimensões dentro dos limites do gradil costal, superfície lisa, margens afiladas, ecotextura preservada, porém, ecogenicidade aumentada. Arquitetura vascular portal e intra-hepática preservadas quanto ao calibre e trajeto dos vasos.",
+    "impressao_diagnostica": "O aumento da ecogenicidade hepática pode estar relacionado a deposição de gordura (comum em gatos idosos e/ou obesos), porém, não se descarta lipidose, colangiohepatite crônica.'",
+    "status": "ANORMAL",
+    "orgao": "FÍGADO"
+  },
+  {
+    "codigo": "FHIF",
+    "comentario": "de dimensões dentro dos limites do gradil costal, superfície lisa, margens afiladas, ecotextura preservada, porém, ecogenicidade aumentada. Arquitetura vascular portal e intra-hepática preservadas quanto ao calibre e trajeto dos vasos.",
+    "impressao_diagnostica": "O aumento da ecogenicidade hepática pode estar relacionado a deposição de gordura (comum em gatos idosos e/ou obesos). Caso haja suspeita de hepatopatia, sugerem-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "FÍGADO"
+  },
+  {
+    "codigo": "FA",
+    "comentario": "de dimensões fora dos limites do gradil costal, superfície lisa, margens afiladas, ecotextura dentro dos limites da normalidade. Ecogenicidade mantida. Arquitetura vascular portal e intra-hepática preservadas quanto ao calibre e trajeto dos vasos.",
+    "impressao_diagnostica": "Hepatomegalia.",
+    "status": "ANORMAL",
+    "orgao": "FÍGADO"
+  },
+  {
+    "codigo": "FIGHIFEL",
+    "comentario": "de dimensões dentro dos limites do gradil costal, superfície lisa, margens afiladas, ecotextura preservada, porém, ecogenicidade aumentada. Arquitetura vascular portal e intra-hepática preservadas quanto ao calibre e trajeto dos vasos.",
+    "impressao_diagnostica": "O aumento da ecogenicidade hepática pode estar relacionado a deposição de gordura (comum em gatos idosos e/ou obesos), porém, não se descarta lipidose, colangiohepatite crônica.",
+    "status": "ANORMAL",
+    "orgao": "FÍGADO"
+  },
+  {
+    "codigo": "LLFIG",
+    "comentario": "Nota-se quantidade de conteúdo anecogênico livre em fígado",
+    "impressao_diagnostica": "Fígado: nota-se quantidade de líquido livre em fígado.",
+    "status": "ANORMAL",
+    "orgao": "FÍGADO"
+  },
+  {
+    "codigo": "MFIG",
+    "comentario": "Nota-se em fígado estrutura de característica massa, medindo <var1> cm x <var2> cm, bem delimitada, com ecogenicidade mista, porém, predominantemente hiperecóica. Margens irregulares e limites mal definidos.",
+    "impressao_diagnostica": null,
+    "status": "ANORMAL",
+    "orgao": "FÍGADO"
+  },
+  {
+    "codigo": "FIGHIP",
+    "comentario": "de dimensões fora dos limites do gradil costal, superfície lisa, margens afiladas, ecotextura dentro dos limites da normalidade. Ecogenicidade aumentada. Arquitetura vascular portal e intra-hepática preservadas quanto ao calibre e trajeto dos vasos.",
+    "impressao_diagnostica": "O aumento da ecogenicidade hepática possui como principais diagnósticos diferenciais: esteatose, hepatopatia esteroidal.",
+    "status": "ANORMAL",
+    "orgao": "FÍGADO"
+  },
+  {
+    "codigo": "FAR",
+    "comentario": "de dimensões fora dos limites do gradil costal, superfície lisa, margens afiladas, ecotextura dentro dos limites da normalidade. Ecogenicidade diminuída. Arquitetura vascular portal e intra-hepática preservadas quanto ao calibre e trajeto dos vasos.",
+    "impressao_diagnostica": "Hepatomegalia. Fígado reativo a processo inflamatório/infeccioso/toxêmico.",
+    "status": "ANORMAL",
+    "orgao": "FÍGADO"
+  },
+  {
+    "codigo": "FIGREA",
+    "comentario": "de dimensões dentro dos limites do gradil costal, superfície lisa, margens afiladas, ecotextura dentro dos limites da normalidade. Ecogenicidade diminuída. Arquitetura vascular portal e intra-hepática preservadas quanto ao calibre e trajeto dos vasos.",
+    "impressao_diagnostica": null,
+    "status": "ANORMAL",
+    "orgao": "FÍGADO"
+  },
+  {
+    "codigo": "FR",
+    "comentario": "de dimensões dentro dos limites do gradil costal, superfície lisa, margens afiladas, ecotextura dentro dos limites da normalidade. Ecogenicidade diminuída. Arquitetura vascular portal e intra-hepática preservadas quanto ao calibre e trajeto dos vasos.",
+    "impressao_diagnostica": "Fígado: reativo a processo inflamatório/infeccioso/toxêmico.",
+    "status": "ANORMAL",
+    "orgao": "FÍGADO"
+  },
+  {
+    "codigo": "F+R",
+    "comentario": "de dimensões fora dos limites do gradil costal, superfície lisa, margens afiladas, ecotextura dentro dos limites da normalidade. Ecogenicidade diminuída. Arquitetura vascular portal e intra-hepática preservadas quanto ao calibre e trajeto dos vasos.",
+    "impressao_diagnostica": "Hepatomegalia.\r\nFígado: reativo a processo inflamatório/infeccioso/toxêmico.",
+    "status": "ANORMAL",
+    "orgao": "FÍGADO"
+  },
+  {
+    "codigo": "JEJNDN",
+    "comentario": "jejuno apresentando espessamento focal em camada muscular, medindo aproximadamente <var1> cm, associado a perda de estratificação parietal. Jejuno medindo <var2> cm.",
+    "impressao_diagnostica": "Jejuno: não se descarta processo neoplásico. Caso clinicamente indicado, sugerem-se exames complementares e acompanhamento ultrassonográfico.",
+    "status": "ANORMAL",
+    "orgao": "INTESTINO DELGADO"
+  },
+  {
+    "codigo": "GASTROENTERITE",
+    "comentario": "2",
+    "impressao_diagnostica": "2",
+    "status": "ANORMAL",
+    "orgao": "INTESTINO DELGADO"
+  },
+  {
+    "codigo": "JEJUMUMM",
+    "comentario": "Multiplas porções de jejuno apresentando camada muscular espessada, medindo <var1> cm, relação de 1:1 com camada mucosa, que mede <var2> cm.",
+    "impressao_diagnostica": "Jejuno: provável processo infiltrativo em camada muscular, podendo estar relacionado à doença inflamatória intestinal e/ou processo neoplásico. Sugere-se exames complementares",
+    "status": "ANORMAL",
+    "orgao": "INTESTINO DELGADO"
+  },
+  {
+    "codigo": "JEJUMUM",
+    "comentario": "Poucas porções de jejuno apresentando camada muscular espessada, medindo <var1> cm, relação de 1:1 com camada mucosa, que mede <var2> cm.",
+    "impressao_diagnostica": "Jejuno: provável processo infiltrativo em camada muscular, podendo estar relacionado à doença inflamatória intestinal e/ou processo neoplásico. Sugere-se exames complementares",
+    "status": "ANORMAL",
+    "orgao": "INTESTINO DELGADO"
+  },
+  {
+    "codigo": "INTUCE",
+    "comentario": "jejuno apresentando aspecto em alvo com múltiplas camadas concêntricas associado a moderada perda de vascularização ao modo Doppler colorido.\r\nMesentério adjacente hiperecoico.",
+    "impressao_diagnostica": "Imagens ultrassonográficas compatíveis com intussuscepção em intestino delgado associado a corpo estranho.",
+    "status": "ANORMAL",
+    "orgao": "INTESTINO DELGADO"
+  },
+  {
+    "codigo": "INTU",
+    "comentario": "jejuno apresentando aspecto em alvo com múltiplas camadas concêntricas associado a moderada perda de vascularização ao modo Doppler colorido.\r\nMesentério adjacente hiperecoico.",
+    "impressao_diagnostica": "Imagens ultrassonográficas compatíveis com intussuscepção em intestino delgado.",
+    "status": "ANORMAL",
+    "orgao": "INTESTINO DELGADO"
+  },
+  {
+    "codigo": "UMUM",
+    "comentario": "Poucas porções de jejuno apresentando camada muscular espessada, medindo <var1> cm, relação de 1:1 com camada mucosa, que mede <var2> cm.",
+    "impressao_diagnostica": "Jejuno: provável processo infiltrativo em camada muscular, podendo estar relacionado à doença inflamatória intestinal e/ou processo neoplásico. Sugere-se exames complementares",
+    "status": "ANORMAL",
+    "orgao": "INTESTINO DELGADO"
+  },
+  {
+    "codigo": "JEJ INF",
+    "comentario": "Poucas porções de jejuno apresentando camada muscular espessada, medindo <var1> cm, relação de 1:1 com camada mucosa, que mede <var2> cm.",
+    "impressao_diagnostica": "Jejuno: provável processo infiltrativo em camada muscular podendo estar relacionado à doença inflamatória intestinal e/ou processo neoplásico. Sugere-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "INTESTINO DELGADO"
+  },
+  {
+    "codigo": "JEJINF",
+    "comentario": "Poucas porções de jejuno apresentando camada muscular espessada, medindo <var1> cm, relação de 1:1 com camada mucosa, que mede <var2> cm.",
+    "impressao_diagnostica": "Jejuno: provável processo infiltrativo em camada muscular podendo estar relacionado à doença inflamatória intestinal e/ou processo neoplásico. Sugere-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "INTESTINO DELGADO"
+  },
+  {
+    "codigo": "JEJESP",
+    "comentario": "Jejuno espessado, medindo <var1> cm com estratificação parietal preservada.",
+    "impressao_diagnostica": "Jejuno: provável processo inflamatório / infeccioso / infiltrativo. Caso clinicamente indicado sugerem-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "INTESTINO DELGADO"
+  },
+  {
+    "codigo": "JEJUU",
+    "comentario": "jejuno apresentando camada muscular espessada, medindo <var1> cm, relação de 1:1 com camada mucosa, que mede <var2> cm.",
+    "impressao_diagnostica": "Jejuno: provável processo infiltrativo em camada muscular, podendo estar relacionado à doença inflamatória intestinal e/ou processo neoplásico. Sugerem-se exames complementares",
+    "status": "ANORMAL",
+    "orgao": "INTESTINO DELGADO"
+  },
+  {
+    "codigo": "CEJEJ",
+    "comentario": "Em jejuno nota-se área de aproximadamente <var1> cm de comprimento, intraluminal, formando sombreamento acústico posterior. Alça não dilatada.",
+    "impressao_diagnostica": "Jejuno: provável conteúdo alimentar denso não podendo excluir por completo corpo estranho. Sugere-se acompanhamento ultrassonográfico.",
+    "status": "ANORMAL",
+    "orgao": "INTESTINO DELGADO"
+  },
+  {
+    "codigo": "JEJ",
+    "comentario": "Jejuno preservado, medindo <var1> cm com estratificação parietal preservada.",
+    "impressao_diagnostica": null,
+    "status": "NORMAL",
+    "orgao": "INTESTINO DELGADO"
+  },
+  {
+    "codigo": "GAENT",
+    "comentario": "porções de jejuno apresentando dilatação por conteúdo líquido, mesentério adjacente hiperecogênico, motilidade aumentada.",
+    "impressao_diagnostica": "Intestino delgado: processo inflamatório/infeccioso.",
+    "status": "ANORMAL",
+    "orgao": "INTESTINO DELGADO"
+  },
+  {
+    "codigo": "ILA",
+    "comentario": "íleo com estratificação parietal mantida, porém, espessado, medindo <var1>.",
+    "impressao_diagnostica": "Íleo: possível processo infiltrativo. Tendo como diferenciais processo inflamatório/infeccioso, não podendo descartar por completo processo neopl\r\nasico.",
+    "status": "ANORMAL",
+    "orgao": "INTESTINO DELGADO"
+  },
+  {
+    "codigo": "JEJE",
+    "comentario": "Jejuno espessado, medindo <var1> cm com estratificação parietal preservada.",
+    "impressao_diagnostica": "Jejuno: provável processo inflamatório / infeccioso / infiltrativo. Caso clinicamente indicado sugere-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "INTESTINO DELGADO"
+  },
+  {
+    "codigo": "JIC",
+    "comentario": "Íleo com espessura e estratificação parietal preservada, medindo <var1> cm, mesentério adjacente dentro da normalidade.",
+    "impressao_diagnostica": null,
+    "status": "NORMAL",
+    "orgao": "INTESTINO DELGADO"
+  },
+  {
+    "codigo": "GENT",
+    "comentario": "Intestino delgado preenchidas por conteúdo gasoso e mucoso, apresentando perda da estratificação parietal.",
+    "impressao_diagnostica": null,
+    "status": "ANORMAL",
+    "orgao": "INTESTINO DELGADO"
+  },
+  {
+    "codigo": "DUOE",
+    "comentario": "Duodeno espessado, medindo <var1> cm, estratificação parietal preservada.",
+    "impressao_diagnostica": "Aspectos ultrassonográficos de duodeno indicam processo inflamatório / infeccioso.",
+    "status": "ANORMAL",
+    "orgao": "INTESTINO DELGADO"
+  },
+  {
+    "codigo": "DUOESP",
+    "comentario": "Duodeno espessado, medindo <var1> cm, estratificação parietal preservada.",
+    "impressao_diagnostica": "Aspectos ultrassonográficos de duodeno indicam processo inflamatório / infeccioso.",
+    "status": "ANORMAL",
+    "orgao": "INTESTINO DELGADO"
+  },
+  {
+    "codigo": "JEJ11PP",
+    "comentario": "Poucas porções de jejuno apresentando camada muscular espessada, medindo <var1> cm, relação de 1:1 com camada mucosa, que mede <var2> cm.",
+    "impressao_diagnostica": "Jejuno: provável processo infiltrativo em camada muscular, podendo estar relacionado à doença inflamatória intestinal e/ou processo neoplásico. Sugere-se exames complementares",
+    "status": "ANORMAL",
+    "orgao": "INTESTINO DELGADO"
+  },
+  {
+    "codigo": "DUO",
+    "comentario": "Duodeno medindo <var1> cm, com estratificação parietal preservada.",
+    "impressao_diagnostica": null,
+    "status": "NORMAL",
+    "orgao": "INTESTINO DELGADO"
+  },
+  {
+    "codigo": "JEJ 11 POUCAS PORCOES",
+    "comentario": "Poucas porções de jejuno apresentando camada muscular espessada, medindo <var1> cm, relação de 1:1 com camada mucosa, que mede <var2> cm.",
+    "impressao_diagnostica": "Jejuno: provável processo infiltrativo em camada muscular, podendo estar relacionado à doença inflamatória intestinal e/ou processo neoplásico. Sugere-se exames complementares",
+    "status": "ANORMAL",
+    "orgao": "INTESTINO DELGADO"
+  },
+  {
+    "codigo": "GASTROENTERITE",
+    "comentario": "Preenchido por conteúdo gasoso e mucoso, apresentando perda da estratificação parietal.",
+    "impressao_diagnostica": null,
+    "status": "ANORMAL",
+    "orgao": "INTESTINO DELGADO"
+  },
+  {
+    "codigo": "MUCOSA HIPER",
+    "comentario": "Camada mucosa com aumento da ecogenicidade.",
+    "impressao_diagnostica": "O aumento da ecogenicidade de camada mucosa pode ser um indicativo de processo inflamatório , porém não se descarta por completo linfangiectasia (rara em pacientes felinos).",
+    "status": "ANORMAL",
+    "orgao": "INTESTINO DELGADO"
+  },
+  {
+    "codigo": "JEJ11",
+    "comentario": "Poucas porções de jejuno apresentando camada muscular espessada, medindo <var1> cm, relação de 1:1 com camada mucosa, que mede <var2> cm.",
+    "impressao_diagnostica": "Jejuno: provável processo infiltrativo em camada muscular, podendo estar relacionado à doença inflamatória intestinal e/ou processo neoplásico. Sugere-se exames complementares",
+    "status": "ANORMAL",
+    "orgao": "INTESTINO DELGADO"
+  },
+  {
+    "codigo": "JEJ 11",
+    "comentario": "Poucas porções de jejuno apresentando camada muscular espessada, medindo <var1> cm, relação de 1:1 com camada mucosa, que mede <var2> cm.",
+    "impressao_diagnostica": "Jejuno: provável processo infiltrativo em camada muscular, podendo estar relacionado à doença inflamatória intestinal e/ou processo neoplásico. Sugere-se exames complementares",
+    "status": "ANORMAL",
+    "orgao": "INTESTINO DELGADO"
+  },
+  {
+    "codigo": "ILEOESP",
+    "comentario": "Íleo espessado, medindo <var1> cm, estratificação parietal preservada.",
+    "impressao_diagnostica": "Aspectos ultrassonográficos de íleo indicam processo inflamatório / infeccioso.",
+    "status": "ANORMAL",
+    "orgao": "INTESTINO DELGADO"
+  },
+  {
+    "codigo": "JCMCH",
+    "comentario": "Parede muscular de jejuno com ecogenicidade aumentada.",
+    "impressao_diagnostica": "O aumento da ecogenicidade de parede muscular em jejuno pode estar relacionado a processo infiltrativo/linfangectasia inicial.",
+    "status": "ANORMAL",
+    "orgao": "INTESTINO DELGADO"
+  },
+  {
+    "codigo": "LNPREA",
+    "comentario": "linfonodo portal medindo <var1> cm x <var2> cm, com margens pouco irregulares, limites bem definidos, ecotextura homogênea e com ecogenicidade diminuída.",
+    "impressao_diagnostica": "Linfonodo portal reativo a processo inflamatório/infeccioso, não podendo descartar por completo processo neoplásico.",
+    "status": "ANORMAL",
+    "orgao": "LINFONODOS"
+  },
+  {
+    "codigo": "LFESPREA",
+    "comentario": "linfonodo esplênico aumentado de tamanho medindo <var1> cm x <var2> cm, com perda de seu formato, pouco heterogêneos com ecogenicidade diminuída.",
+    "impressao_diagnostica": "Linfonodo esplênico reativo a processo inflamatório/infeccioso, não podendo descartar por completo processo neoplásico.",
+    "status": "ANORMAL",
+    "orgao": "LINFONODOS"
+  },
+  {
+    "codigo": "LFIMNDN",
+    "comentario": "FALTA CADASTRAR",
+    "impressao_diagnostica": "FALTA CADASTRAR",
+    "status": "ANORMAL",
+    "orgao": "LINFONODOS"
+  },
+  {
+    "codigo": "LEPF",
+    "comentario": "linfonodo esplênico aumentado de tamanho medindo <var1> cm x <var2> cm, com perda de seu formato, pouco heterogêneos com ecogenicidade diminuída.",
+    "impressao_diagnostica": "Linfonodo esplênico reativo a processo inflamatório/infeccioso, não podendo descartar por completo processo neoplásico.",
+    "status": "ANORMAL",
+    "orgao": "LINFONODOS"
+  },
+  {
+    "codigo": "LIMREA",
+    "comentario": "linfonodos ilíaco medial discretamente aumentados de tamanho, pouco heterogêneos com ecogenicidade mista.",
+    "impressao_diagnostica": "Linfonodos ilíaco medial reativos a processo inflamatório/infeccioso.",
+    "status": "ANORMAL",
+    "orgao": "LINFONODOS"
+  },
+  {
+    "codigo": "TESTE4",
+    "comentario": "ASDASDSDS",
+    "impressao_diagnostica": "ASDFDF",
+    "status": "ANORMAL",
+    "orgao": "LINFONODOS"
+  },
+  {
+    "codigo": "LFABDR",
+    "comentario": "linfonodos abdominais discretamente aumentados de tamanho, pouco heterogêneos com ecogenicidade mista.",
+    "impressao_diagnostica": "Linfonodos abdominais reativos a processo inflamatório/infeccioso.",
+    "status": "ANORMAL",
+    "orgao": "LINFONODOS"
+  },
+  {
+    "codigo": "ASD",
+    "comentario": "TESTE",
+    "impressao_diagnostica": "ASDDASDS",
+    "status": "ANORMAL",
+    "orgao": "LINFONODOS"
+  },
+  {
+    "codigo": "AEN",
+    "comentario": "ASTOR EM NORONHA",
+    "impressao_diagnostica": "DE BOAZINHA",
+    "status": "ANORMAL",
+    "orgao": "LINFONODOS"
+  },
+  {
+    "codigo": "LFAR",
+    "comentario": "linfonodos abdominais discretamente aumentados de tamanho, pouco heterogêneos com ecogenicidade mista.",
+    "impressao_diagnostica": "Linfonodos abdominais reativos a processo inflamatório/infeccioso.",
+    "status": "ANORMAL",
+    "orgao": "LINFONODOS"
+  },
+  {
+    "codigo": "LAR",
+    "comentario": "linfonodos abdominais discretamente aumentados de tamanho, pouco heterogêneos com ecogenicidade mista.",
+    "impressao_diagnostica": "Linfonodos abdominais reativos a processo inflamatório/infeccioso.",
+    "status": "ANORMAL",
+    "orgao": "LINFONODOS"
+  },
+  {
+    "codigo": "LLRHR",
+    "comentario": "pouca quantidade de conteúdo anecogênico livre em recesso hepatorrenal.",
+    "impressao_diagnostica": "Pouca quantidade de líquido livre em recesso hepatorrenal.",
+    "status": "ANORMAL",
+    "orgao": "OUTROS"
+  },
+  {
+    "codigo": "HERNIAABD",
+    "comentario": "Descontinuidade de musculatura em região abdominal, medindo <var1> cm. Conteúdo herniado: gordura abdominal.",
+    "impressao_diagnostica": "Hérnia abdominal. Conteúdo herniado no momento deste exame: gordura abdominal, sem sinal ultrassonográfico de encarceramento.",
+    "status": "ANORMAL",
+    "orgao": "OUTROS"
+  },
+  {
+    "codigo": "MESADJRINSHIPER",
+    "comentario": "Mesentério adjacente aos rins com aumento da ecogenicidade.",
+    "impressao_diagnostica": "O aumento da ecogenicidade de mesentério adjacente aos rins é indicativo de reatividade a processo inflamatório / infeccioso.",
+    "status": "ANORMAL",
+    "orgao": "OUTROS"
+  },
+  {
+    "codigo": "UB",
+    "comentario": "em região umbilical nota-se descontinuidade de parede muscular, medindo <var1> cm aproximadamente, com conteúdo herniado no momento deste exame: gordura abdominal.",
+    "impressao_diagnostica": "Presença de hérnia umbilical com gordura abdominal herniada no momento deste exame.",
+    "status": "ANORMAL",
+    "orgao": "OUTROS"
+  },
+  {
+    "codigo": "LLRER",
+    "comentario": "pouca quantidade de conteúdo anecogênico livre em recesso esplenorrenal.",
+    "impressao_diagnostica": "Pouca quantidade de conteúdo líquido livre abdominal em recesso esplenorrenal.",
+    "status": "ANORMAL",
+    "orgao": "OUTROS"
+  },
+  {
+    "codigo": "LLRHD",
+    "comentario": "pouca quantidade de conteúdo anecogênico livre em recesso hepato diafragmático",
+    "impressao_diagnostica": "Pouca quantidade de líquido livre em recesso hepato diafragmático.",
+    "status": "ANORMAL",
+    "orgao": "OUTROS"
+  },
+  {
+    "codigo": "HUB",
+    "comentario": "Descontinuidade de musculatura abdominal em região umbilical, medindo <var1> cm. Conteúdo herniado: gordura abdominal.",
+    "impressao_diagnostica": "Hérnia umbilical. Conteúdo herniado no momento deste exame: gordura abdominal, sem sinal ultrassonográfico de encarceramento.",
+    "status": "ANORMAL",
+    "orgao": "OUTROS"
+  },
+  {
+    "codigo": "LLRHR",
+    "comentario": "pouca quantidade de conteúdo anecogênico livre em recesso hepatorrenal.",
+    "impressao_diagnostica": "Pouca quantidade de líquido livre abdominal no momento deste exame.",
+    "status": "ANORMAL",
+    "orgao": "OUTROS"
+  },
+  {
+    "codigo": "HUMB",
+    "comentario": "em região umbilical nota-se descontinuidade de parede muscular, medindo <var1> cm aproximadamente, com conteúdo herniado no momento deste exame: gordura abdominal.",
+    "impressao_diagnostica": "Presença de hérnia umbilical com gordura abdominal herniada no momento deste exame.",
+    "status": "ANORMAL",
+    "orgao": "OUTROS"
+  },
+  {
+    "codigo": "LLRCC",
+    "comentario": "Nota-se em recesso cistocólico pouca quantidade de conteúdo anecogênico livre.",
+    "impressao_diagnostica": "Pouca quantidade de líquido livre abdominal, podendo estar relacionada a reatividade processo inflamatório/infeccioso.",
+    "status": "ANORMAL",
+    "orgao": "OUTROS"
+  },
+  {
+    "codigo": "GASTROENTERITE",
+    "comentario": "Mesentério adjacente a intestino grosso hiperecoico.",
+    "impressao_diagnostica": null,
+    "status": "ANORMAL",
+    "orgao": "OUTROS"
+  },
+  {
+    "codigo": "HID",
+    "comentario": "Em região inguinal direita nota-se descontinuidade de parede muscular, medindo <var1> cm aproximadamente, com conteúdo herniado no momento deste exame: gordura abdominal.",
+    "impressao_diagnostica": "Presença de hérnia inguinal com gordura abdominal herniada no momento do exame.",
+    "status": "ANORMAL",
+    "orgao": "OUTROS"
+  },
+  {
+    "codigo": "HIE",
+    "comentario": "Em região inguinal esquerda nota-se descontinuidade de parede muscular, medindo <var1> cm aproximadamente, com conteúdo herniado no momento deste exame: gordura abdominal.",
+    "impressao_diagnostica": "Presença de hérnia inguinal com gordura abdominal herniada no momento do exame.",
+    "status": "ANORMAL",
+    "orgao": "OUTROS"
+  },
+  {
+    "codigo": "OVDMC",
+    "comentario": "FALTA CADASTRAR OVDMC",
+    "impressao_diagnostica": "FALTA CADASTRAR OVDMC",
+    "status": "ANORMAL",
+    "orgao": "OVÁRIOS"
+  },
+  {
+    "codigo": "OVEMC",
+    "comentario": "FALTA CADASTRAR OVEMC",
+    "impressao_diagnostica": "FALTA CADASTRAR OVEMC",
+    "status": "ANORMAL",
+    "orgao": "OVÁRIOS"
+  },
+  {
+    "codigo": "OVER",
+    "comentario": "em topografia habitual, apresentando múltiplas estruturas císticas, medindo <var3> cm x <var4> cm. Mesentério adjacente hiperecoico.",
+    "impressao_diagnostica": "Ovário esquerdo remanescente policístico(provável).",
+    "status": "ANORMAL",
+    "orgao": "OVÁRIOS"
+  },
+  {
+    "codigo": "OVD",
+    "comentario": "tamanho, forma, contorno, ecogenicidade e ecotextura preservadas, medindo <var1> cm x <var2> cm",
+    "impressao_diagnostica": null,
+    "status": "NORMAL",
+    "orgao": "OVÁRIOS"
+  },
+  {
+    "codigo": "OVE",
+    "comentario": "tamanho, forma, contorno, ecogenicidade e ecotextura preservadas, medindo <var1> cm x <var2> cm",
+    "impressao_diagnostica": null,
+    "status": "NORMAL",
+    "orgao": "OVÁRIOS"
+  },
+  {
+    "codigo": "OVDC",
+    "comentario": "Em ovário direito nota-se estrutura circular anecogênica com paredes finas e contornos regulares, com limites bem definidos, medindo <var1> cm x <var2> cm.",
+    "impressao_diagnostica": "Cisto em ovário direito.",
+    "status": "ANORMAL",
+    "orgao": "OVÁRIOS"
+  },
+  {
+    "codigo": "OVEC",
+    "comentario": "Em ovário esquerdo nota-se estrutura circular anecogênica com paredes finas e contornos regulares, com limites bem definidos, medindo <var1> cm x <var2> cm.",
+    "impressao_diagnostica": "Cisto em ovário esquerdo.",
+    "status": "ANORMAL",
+    "orgao": "OVÁRIOS"
+  },
+  {
+    "codigo": "PTTNDN",
+    "comentario": "aumentada de tamanho, medindo <var1> cm x <var2> cm. Parênquima heterogêneo com ecogenicidade mista e margens irregulares.",
+    "impressao_diagnostica": "Próstata: não se descarta processo neoplásico.",
+    "status": "ANORMAL",
+    "orgao": "PRÓSTATA"
+  },
+  {
+    "codigo": "HPBCPNDN",
+    "comentario": "aumentada de tamanho, medindo <var1> cm x <var2> cm, ecogenicidade mista e ecotextura moderadamente heterogênea.",
+    "impressao_diagnostica": "Hiperplasia prostática benigna com indícios ultrassonográficos de processo inflamatório/infeccioso inicial (prostatite), não podendo descartar por completo do processo neoplásico.",
+    "status": "ANORMAL",
+    "orgao": "PRÓSTATA"
+  },
+  {
+    "codigo": "HPBCNDN",
+    "comentario": "próstata aumentada de tamanho, medindo <var1> cm x <var2> cm, discretamente heterogênea com ecogenicidade mista. Múltiplas estruturas semi circulares, anecogênicas, com limites bem definidos e irregulares.",
+    "impressao_diagnostica": "Próstata: hiperplasia prostática benigna cística, não podendo descartar processo neoplásico. Caso clinicamente indicado sugere-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "PRÓSTATA"
+  },
+  {
+    "codigo": "PTTC",
+    "comentario": "Em próstata, nota-se estrutura circular, de limites bem definidos e margens regulares, preenchida por conteúdo anecogênico medindo <var1> cm x <var2> cm.",
+    "impressao_diagnostica": "Cisto em próstata.",
+    "status": "ANORMAL",
+    "orgao": "PRÓSTATA"
+  },
+  {
+    "codigo": "CPTT",
+    "comentario": "Em próstata, nota-se estrutura circular, de limites bem definidos e margens regulares, preenchida por conteúdo anecogênico medindo <var1> cm x <var2> cm.",
+    "impressao_diagnostica": "Cisto em próstata",
+    "status": "ANORMAL",
+    "orgao": "PRÓSTATA"
+  },
+  {
+    "codigo": "HPBC",
+    "comentario": "próstata aumentada de tamanho, medindo <var1> cm x <var2> cm, discretamente heterogênea com ecogenicidade mista. Múltiplas estruturas semi circulares, anecogênicas, com limites bem definidos e irregulares.",
+    "impressao_diagnostica": "Próstata: hiperplasia prostática benigna cística.",
+    "status": "ANORMAL",
+    "orgao": "PRÓSTATA"
+  },
+  {
+    "codigo": "PNODHIPO",
+    "comentario": "nódulo hipoecóico, medindo aproximadamente <var1> cm x <var2> cm, margens regulares e limites bem definidos.",
+    "impressao_diagnostica": "Nódulo prostático.",
+    "status": "ANORMAL",
+    "orgao": "PRÓSTATA"
+  },
+  {
+    "codigo": "HPBP",
+    "comentario": "aumentada de tamanho, medindo <var1> cm x <var2> cm, ecogenicidade mista e ecotextura moderadamente heterogênea.",
+    "impressao_diagnostica": "Hiperplasia prostática benigna com indícios ultrassonográficos de processo inflamatório/infeccioso inicial (prostatite).",
+    "status": "ANORMAL",
+    "orgao": "PRÓSTATA"
+  },
+  {
+    "codigo": "PTT",
+    "comentario": "tamanho, forma, contorno, ecogenicidade e ecotextura preservadas, medindo <var1> cm x <var2> cm.",
+    "impressao_diagnostica": null,
+    "status": "NORMAL",
+    "orgao": "PRÓSTATA"
+  },
+  {
+    "codigo": "HPB",
+    "comentario": "próstata aumentada de tamanho, medindo <var1> cm x <var2> cm, discretamente heterogênea com ecogenicidade mista.",
+    "impressao_diagnostica": "Próstata: hiperplasia prostática benigna.",
+    "status": "ANORMAL",
+    "orgao": "PRÓSTATA"
+  },
+  {
+    "codigo": "LPDA",
+    "comentario": "lobo pancreático direito aumentado de tamanho, medindo <var1> cm, homogêneo e com ecogenicidade dentro da normalidade.",
+    "impressao_diagnostica": "Pâncreas: provável pancreatopatia, caso clinicamente indicado sugere-se exames complementares",
+    "status": "ANORMAL",
+    "orgao": "PÂNCREAS"
+  },
+  {
+    "codigo": "LPDACRO",
+    "comentario": "Lobo pancreático direito aumentado de tamanho medindo <var1> cm, heterogêneo e com ecogenicidade aumentada.",
+    "impressao_diagnostica": "Pâncreas: provável pancreatite crônica, caso clinicamente indicado sugere-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "PÂNCREAS"
+  },
+  {
+    "codigo": "LPEEDE",
+    "comentario": "Aumentado de tamanho, medindo <var1> cm em lobo esquerdo, com aspecto heterogêneo, associado a conteúdo anecogênico difusamente entremeado, ecotextura mista.",
+    "impressao_diagnostica": "Edema pancreático, podendo estar relacionado aos seguintes diagnósticos diferenciais: pancreatite, hipoalbuminemia, hipervolemia.",
+    "status": "ANORMAL",
+    "orgao": "PÂNCREAS"
+  },
+  {
+    "codigo": "LPE",
+    "comentario": "lobo pancreático esquerdo medindo <var1> cm, homogêneo e com ecogenicidade dentro da normalidade.",
+    "impressao_diagnostica": null,
+    "status": "ANORMAL",
+    "orgao": "PÂNCREAS"
+  },
+  {
+    "codigo": "CPAAGCR",
+    "comentario": "corpo de pâncreas aumentado de tamanho, medindo <var1> cm, heterogêneo, ecogenicidade mista, predominantemente hiperecóico. Mesentério adjacente hiperecogênico.",
+    "impressao_diagnostica": "Corpo de pâncreas: pancreatite crônica agudizada (provável).",
+    "status": "ANORMAL",
+    "orgao": "PÂNCREAS"
+  },
+  {
+    "codigo": "LPDASUBA",
+    "comentario": "Lobo pancreático direito medindo <var1> cm, heterogêneo e com ecogenicidade diminuída.",
+    "impressao_diagnostica": "Pâncreas: provável pancreatite subaguda, caso clinicamente indicado sugere-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "PÂNCREAS"
+  },
+  {
+    "codigo": "PCAED",
+    "comentario": "Corpo pancreático aumentado de tamanho medindo <var1> cm, pouco heterogêneo e com ecogenicidade diminuída.",
+    "impressao_diagnostica": "Pâncreas: pancreatite aguda.",
+    "status": "ANORMAL",
+    "orgao": "PÂNCREAS"
+  },
+  {
+    "codigo": "LPDED",
+    "comentario": "lobo pancreático direito com tamanho preservado, medindo <var1> cm, homogêneo, margens regulares, porém, ecogenicidade diminuída.",
+    "impressao_diagnostica": "Pâncreas: não se descarta pancreatite incipiente ou sub-aguda.",
+    "status": "ANORMAL",
+    "orgao": "PÂNCREAS"
+  },
+  {
+    "codigo": "LPEARC",
+    "comentario": "Lobo pancreático esquerdo aumentado de tamanho, medindo <var1> cm, heterogêneo, ecogenicidade difusamente aumentada e mesentério adjacente com aumento da ecogenicidade.",
+    "impressao_diagnostica": "Pâncreas: provável pancreatite crônica agudizada.",
+    "status": "ANORMAL",
+    "orgao": "PÂNCREAS"
+  },
+  {
+    "codigo": "CPA",
+    "comentario": "corpo de pâncreas aumentado de tamanho, medindo <var1>",
+    "impressao_diagnostica": "O aumento de corpo pancreático pode estar relacionado a pancreatite incipiente.",
+    "status": "ANORMAL",
+    "orgao": "PÂNCREAS"
+  },
+  {
+    "codigo": "LPDACR",
+    "comentario": "Lobo pancreático direito aumentado de tamanho medindo <var1> cm, heterogêneo e com ecogenicidade aumentada.",
+    "impressao_diagnostica": "Pâncreas: provável pancreatite crônica, caso clinicamente indicado sugere-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "PÂNCREAS"
+  },
+  {
+    "codigo": "LPDACRAG",
+    "comentario": "lobo pancreático direito aumentado de tamanho, medindo <var1> cm, heterogêneo, ecogenicidade mista predominantemente hiperecogênica, margens irregulares e mesentério adjacente hiperecogênico.",
+    "impressao_diagnostica": "Pâncreas: provável pancreatite crônica agudizada. Sugerem-se exames complementares caso clinicamente indicado.",
+    "status": "ANORMAL",
+    "orgao": "PÂNCREAS"
+  },
+  {
+    "codigo": "LPEED",
+    "comentario": "lobo pancreático esquerdo com tamanho preservado, medindo <var1> cm, homogêneo, margens regulares, porém, ecogenicidade diminuída.",
+    "impressao_diagnostica": "Pâncreas: não se descarta pancreatite incipiente. Caso clinicamente indicado sugere-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "PÂNCREAS"
+  },
+  {
+    "codigo": "LPDAG",
+    "comentario": "Lobo pancreático direito medindo <var1> cm, heterogêneo e com ecogenicidade diminuída.",
+    "impressao_diagnostica": "Pâncreas: provável pancreatite aguda, caso clinicamente indicado sugere-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "PÂNCREAS"
+  },
+  {
+    "codigo": "LPEASA",
+    "comentario": "Lobo pancreático esquerdo aumentado de tamanho medindo <var1> cm, heterogêneo e com ecogenicidade diminuída no momento deste exame.",
+    "impressao_diagnostica": "Pâncreas: provável pancreatite subaguda, caso clinicamente indicado sugere-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "PÂNCREAS"
+  },
+  {
+    "codigo": "LPDACROAG",
+    "comentario": "Lobo pancreático direito aumentado de tamanho, medindo <var1> cm, heterogêneo e com ecogenicidade aumentada e mesentério adjacente com aumento da ecogenicidade.",
+    "impressao_diagnostica": "Pâncreas: provável pancreatite crônica agudizada, caso clinicamente indicado sugere-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "PÂNCREAS"
+  },
+  {
+    "codigo": "LPEAEA",
+    "comentario": "Lobo pancreático esquerdo aumentado de tamanho medindo <var1> cm, heterogêneo e com ecogenicidade aumentada.",
+    "impressao_diagnostica": "Pâncreas: provável pancreatite crônica, caso clinicamente indicado sugere-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "PÂNCREAS"
+  },
+  {
+    "codigo": "LPEHIPER",
+    "comentario": "Lobo pancreático esquerdo medindo <var1> cm, heterogêneo e com ecogenicidade aumentada.",
+    "impressao_diagnostica": "Pâncreas: provável pancreatite crônica, caso clinicamente indicado sugere-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "PÂNCREAS"
+  },
+  {
+    "codigo": "LPEA",
+    "comentario": "lobo pancreático esquerdo aumentado de tamanho, medindo <var1> cm, homogêneo e com ecogenicidade dentro da normalidade.",
+    "impressao_diagnostica": "Pâncreas: provável pancreatopatia, caso clinicamente indicado sugere-se exames complementares",
+    "status": "ANORMAL",
+    "orgao": "PÂNCREAS"
+  },
+  {
+    "codigo": "LPDAAG",
+    "comentario": "Lobo pancreático direito aumentado de tamanho, medindo <var1> cm, heterogêneo e com ecogenicidade diminuída.",
+    "impressao_diagnostica": "Pâncreas: provável pancreatite aguda, caso clinicamente indicado sugere-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "PÂNCREAS"
+  },
+  {
+    "codigo": "LPEAAG",
+    "comentario": "Lobo pancreático esquerdo aumentado de tamanho, medindo <var1> cm, heterogêneo, com ecogenicidade diminuída.",
+    "impressao_diagnostica": "Pâncreas: provável pancreatite aguda, caso clinicamente indicado sugere-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "PÂNCREAS"
+  },
+  {
+    "codigo": "RDDPRD",
+    "comentario": "Medindo <var1> cm de comprimento em plano dorsal, com moderada perda da relação e diferenciação corticomedular.",
+    "impressao_diagnostica": "Rim direito: não se descarta nefropatia, caso clinicamente indicado sugere-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "RIM DIREITO"
+  },
+  {
+    "codigo": "RDHIDRO",
+    "comentario": "Pelve renal dilatada evoluindo para processo de hidronefrose, medindo <var1> cm",
+    "impressao_diagnostica": "Pielectasia direita evoluindo para hidronefrose.",
+    "status": "ANORMAL",
+    "orgao": "RIM DIREITO"
+  },
+  {
+    "codigo": "RDCHIC",
+    "comentario": "formato mantido e localizado em topografia habitual, medindo <var1> cm de comprimento em plano dorsal. Com aumento de ecogenicidade de corticais. Não há evidências sonográficas de hidronefrose ou imagens compatíveis com cálculos.",
+    "impressao_diagnostica": "Rim direito: O aumento de ecogenicidade de cortical renal é compatível com a idade ou peso do paciente, porém frente, suspeita de nefropatia aguda, sugere-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "RIM DIREITO"
+  },
+  {
+    "codigo": "RDIPRD",
+    "comentario": "Medindo <var1> cm de comprimento em plano dorsal, com importante perda da relação e diferenciação corticomedular.",
+    "impressao_diagnostica": "Rim direito: não se descarta nefropatia, caso clinicamente indicado sugere-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "RIM DIREITO"
+  },
+  {
+    "codigo": "RDINF",
+    "comentario": "Em cortical renal em porção crânio ventral nota-se área triangular hiperecogênica apresentando irregularidade em contorno de cortical medindo <var1> cm x <var2> cm.",
+    "impressao_diagnostica": "Infarto renal. Caso clinicamente indicado sugere-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "RIM DIREITO"
+  },
+  {
+    "codigo": "RDIR",
+    "comentario": "Em cortical renal em porção crânio ventral nota-se área triangular hiperecogênica apresentando irregularidade em contorno de cortical.",
+    "impressao_diagnostica": "Infarto renal. Caso clinicamente indicado sugere-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "RIM DIREITO"
+  },
+  {
+    "codigo": "UDCA",
+    "comentario": "Nota-se estrutura hiperecogênica, formadora de sombreamento acústico posterior, medindo <var1> cm em ureter direito.",
+    "impressao_diagnostica": "Cálculo em ureter direito.",
+    "status": "ANORMAL",
+    "orgao": "RIM DIREITO"
+  },
+  {
+    "codigo": "PDCA",
+    "comentario": "Nota-se estrutura hiperecogênica, formadora de sombreamento acústico posterior, medindo <var1> cm em pelve renal.",
+    "impressao_diagnostica": "Cálculo em pelve renal direita.",
+    "status": "ANORMAL",
+    "orgao": "RIM DIREITO"
+  },
+  {
+    "codigo": "CALCRD",
+    "comentario": "Estrutura hiperecogênica, formadora de sombreamento acústico posterior, medindo <var1> cm em divertículo renal.",
+    "impressao_diagnostica": "Cálculo em rim direito.",
+    "status": "ANORMAL",
+    "orgao": "RIM DIREITO"
+  },
+  {
+    "codigo": "RDD",
+    "comentario": "diminuído de tamanho, medindo <var1> cm de comprimento em plano dorsal.",
+    "impressao_diagnostica": "Rim direito: provável nefropatia, caso clinicamente indicado sugere-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "RIM DIREITO"
+  },
+  {
+    "codigo": "RDMAHI",
+    "comentario": "Mesentério adjacente ao rim direito hiperecogênico.",
+    "impressao_diagnostica": "O aumento de ecogenicidade em mesentério adjacente ao rim direito pode ser um indicativo de reatividade a processo inflamatório/infeccioso.",
+    "status": "ANORMAL",
+    "orgao": "RIM DIREITO"
+  },
+  {
+    "codigo": "RDCA",
+    "comentario": "Estrutura hiperecogênica, formadora de sombreamento acústico posterior, medindo <var1> cm em divertículo renal.",
+    "impressao_diagnostica": "Cálculo em rim direito.",
+    "status": "ANORMAL",
+    "orgao": "RIM DIREITO"
+  },
+  {
+    "codigo": "RDDC",
+    "comentario": "diminuído de tamanho, medindo <var1> cm, importante perda da relação e diferenciação corticomedular. Cortical apresentando ecogenicidade mista, predominantemente hiperecogênica, contornos irregulares.",
+    "impressao_diagnostica": "Rim direito: nefropatia crônica, não podendo descartar por completo processo congênito.",
+    "status": "ANORMAL",
+    "orgao": "RIM DIREITO"
+  },
+  {
+    "codigo": "RDPRD",
+    "comentario": "rim direito com tamanho preservado, medindo <var1> cm, moderada perda da diferenciação e relação corticomedular.",
+    "impressao_diagnostica": "Provável nefropatia. Sugerem-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "RIM DIREITO"
+  },
+  {
+    "codigo": "RDDPD",
+    "comentario": "rim direito com tamanho preservado, medindo <var1> cm, pouca perda da diferenciação corticomedular. Relação corticomedular preservada.",
+    "impressao_diagnostica": "Não se descarta nefropatia. Caso clinicamente indicado, sugere-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "RIM DIREITO"
+  },
+  {
+    "codigo": "RDPDC",
+    "comentario": "rim direito com tamanho preservado, medindo <var1> cm, pouca perda da diferenciação corticomedular. Relação corticomedular preservada.",
+    "impressao_diagnostica": "Não se descarta nefropatia. Caso clinicamente indicado, sugere-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "RIM DIREITO"
+  },
+  {
+    "codigo": "RDMPD",
+    "comentario": "Tamanho preservado, medindo <var1> cm, perda moderada da diferenciação corticomedular, relação preservada.",
+    "impressao_diagnostica": "Rim direito: não se descarta nefropatia, caso clinicamente indicado sugere-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "RIM DIREITO"
+  },
+  {
+    "codigo": "RDMPRD",
+    "comentario": "Medindo <var1> cm de comprimento em plano dorsal, com moderada perda da relação e diferenciação corticomedular.",
+    "impressao_diagnostica": "Rim direito: não se descarta nefropatia, caso clinicamente indicado sugere-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "RIM DIREITO"
+  },
+  {
+    "codigo": "RDCHIF",
+    "comentario": "formato mantido e localizado em topografia habitual, medindo <var1> cm de comprimento em plano dorsal. Com aumento de ecogenicidade de corticais. Não há evidências sonográficas de hidronefrose ou imagens compatíveis com cálculos.",
+    "impressao_diagnostica": "Rim direito: O aumento de ecogenicidade de cortical renal é compatível com a idade ou peso do paciente, porém frente, suspeita de nefropatia aguda, sugere-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "RIM DIREITO"
+  },
+  {
+    "codigo": "RDSE",
+    "comentario": "formato mantido e localizado em topografia habitual, medindo <var1> cm de comprimento em plano dorsal. Perda da relação corticomedular, estando a cortical espessada.",
+    "impressao_diagnostica": "Rim direito: provável processo de senescência, porém frente a suspeita de nefropatia, caso clinicamente indicado sugere-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "RIM DIREITO"
+  },
+  {
+    "codigo": "RDCHI",
+    "comentario": "formato mantido e localizado em topografia habitual, medindo <var1> cm de comprimento em plano dorsal. Com aumento de ecogenicidade de corticais. Não há evidências sonográficas de hidronefrose ou imagens compatíveis com cálculos.",
+    "impressao_diagnostica": "Rim direito: O aumento de ecogenicidade de cortical renal é compatível com a idade ou peso do paciente, porém frente, suspeita de nefropatia aguda, sugere-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "RIM DIREITO"
+  },
+  {
+    "codigo": "RDPPD",
+    "comentario": "rim direito com tamanho preservado, medindo <var1> cm, pouca perda da diferenciação corticomedular. Relação corticomedular preservada.",
+    "impressao_diagnostica": "Não se descarta nefropatia. Caso clinicamente indicado, sugere-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "RIM DIREITO"
+  },
+  {
+    "codigo": "RDA",
+    "comentario": "Aumentado de tamanho, medindo <var1> cm de comprimento em plano dorsal.",
+    "impressao_diagnostica": "Nefromegalia direita podendo estar relacionada a nefropatia aguda.",
+    "status": "ANORMAL",
+    "orgao": "RIM DIREITO"
+  },
+  {
+    "codigo": "PDHIDRO",
+    "comentario": "Pelve renal dilatada evoluindo para processo de hidronefrose, medindo <var1> cm",
+    "impressao_diagnostica": "Pielectasia direita evoluindo para hidronefrose.",
+    "status": "ANORMAL",
+    "orgao": "RIM DIREITO"
+  },
+  {
+    "codigo": "PD",
+    "comentario": "Pelve renal dilatada, medindo <var1> cm.",
+    "impressao_diagnostica": "Pielectasia direita.",
+    "status": "ANORMAL",
+    "orgao": "RIM DIREITO"
+  },
+  {
+    "codigo": "RDFCHI",
+    "comentario": "formato mantido e localizado em topografia habitual, medindo <var1> cm de comprimento em plano dorsal. Com aumento de ecogenicidade de corticais. Não há evidências sonográficas de hidronefrose ou imagens compatíveis com cálculos.",
+    "impressao_diagnostica": "Rim direito: O aumento de ecogenicidade de cortical renal é compatível com a idade ou peso do paciente, porém frente, suspeita de nefropatia aguda, sugere-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "RIM DIREITO"
+  },
+  {
+    "codigo": "RDCVI",
+    "comentario": "formato mantido e localizado em topografia habitual. Com cortical irregular. Não há evidências sonográficas de hidronefrose ou imagens compatíveis com cálculos.",
+    "impressao_diagnostica": "Rim direito: não se descarta nefropatia, sugere-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "RIM DIREITO"
+  },
+  {
+    "codigo": "RDSM",
+    "comentario": "<var1> cm de comprimento em plano dorsal. Visibiliza-se imagem hiperecogênica que margeia medular renal",
+    "impressao_diagnostica": "O sinal da medular renal  pode estar relacionada com nefropatia ou mesmo um achado em pacientes normais, sugere-se associação com demais achados.",
+    "status": "ANORMAL",
+    "orgao": "RIM DIREITO"
+  },
+  {
+    "codigo": "IRA",
+    "comentario": "<var1> cm de comprimento em plano dorsal, com perda da relação e diferenciação corticomedular.",
+    "impressao_diagnostica": "Rins: provável nefropatia aguda, caso clinicamente indicado sugere-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "RIM DIREITO"
+  },
+  {
+    "codigo": "RD",
+    "comentario": "<var1> cm de comprimento em plano dorsal.",
+    "impressao_diagnostica": null,
+    "status": "NORMAL",
+    "orgao": "RIM DIREITO"
+  },
+  {
+    "codigo": "REMPD",
+    "comentario": "<var1> cm de comprimento em plano dorsal. Moderada perda da diferenciação corticomedular",
+    "impressao_diagnostica": "Rins: caso clinicamente indicado sugerem-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "RIM ESQUERDO"
+  },
+  {
+    "codigo": "REHIF",
+    "comentario": "formato mantido e localizado em topografia habitual, medindo <var1> cm de comprimento em plano dorsal. Com aumento de ecogenicidade de corticais. Não há evidências sonográficas de hidronefrose ou imagens compatíveis com cálculos.",
+    "impressao_diagnostica": "Rim esquerdo: O aumento de ecogenicidade de cortical renal é compatível com a idade ou peso do paciente, porém frente, suspeita de nefropatia aguda, sugere-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "RIM ESQUERDO"
+  },
+  {
+    "codigo": "REMPDC",
+    "comentario": "rim esquerdo com tamanho preservado, medindo <var1> cm, moderada perda da diferenciação corticomedular. Relação corticomedular preservada.",
+    "impressao_diagnostica": "Não se descarta nefropatia. Caso clinicamente indicado, sugere-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "RIM ESQUERDO"
+  },
+  {
+    "codigo": "REDPRD",
+    "comentario": "Medindo <var1> cm de comprimento em plano dorsal, com moderada perda da relação e diferenciação corticomedular.",
+    "impressao_diagnostica": "Rim esquerdo: não se descarta nefropatia, caso clinicamente indicado sugere-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "RIM ESQUERDO"
+  },
+  {
+    "codigo": "REHIDRO",
+    "comentario": "Pelve renal dilatada evoluindo para processo de hidronefrose, medindo <var1> cm",
+    "impressao_diagnostica": "Pielectasia esquerda evoluindo para hidronefrose.",
+    "status": "ANORMAL",
+    "orgao": "RIM ESQUERDO"
+  },
+  {
+    "codigo": "RECHIC",
+    "comentario": "formato mantido e localizado em topografia habitual, medindo <var1> cm de comprimento em plano dorsal. Com aumento de ecogenicidade de corticais. Não há evidências sonográficas de hidronefrose ou imagens compatíveis com cálculos.",
+    "impressao_diagnostica": "Rim esquerdo: O aumento de ecogenicidade de cortical renal é compatível com a idade ou peso do paciente, porém frente, suspeita de nefropatia aguda, sugere-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "RIM ESQUERDO"
+  },
+  {
+    "codigo": "REIPRD",
+    "comentario": "Medindo <var1> cm de comprimento em plano dorsal, com importante perda da relação e diferenciação corticomedular.",
+    "impressao_diagnostica": "Rim esquerdo: não se descarta nefropatia, caso clinicamente indicado sugere-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "RIM ESQUERDO"
+  },
+  {
+    "codigo": "REIR",
+    "comentario": "Em cortical renal em porção crânio ventral nota-se área triangular hiperecogênica apresentando irregularidade em contorno de cortical, medindo <var1> cm x <var2> cm.",
+    "impressao_diagnostica": "Infarto renal. Caso clinicamente indicado sugere-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "RIM ESQUERDO"
+  },
+  {
+    "codigo": "REINF",
+    "comentario": "Em cortical renal em porção crânio ventral nota-se área triangular hiperecogênica apresentando irregularidade em contorno de cortical medindo <var1> cm x <var2> cm.",
+    "impressao_diagnostica": "Infarto renal. Caso clinicamente indicado sugere-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "RIM ESQUERDO"
+  },
+  {
+    "codigo": "UECA",
+    "comentario": "Nota-se estrutura hiperecogênica, formadora de sombreamento acústico posterior, medindo <var1> cm em ureter esquerdo.",
+    "impressao_diagnostica": "Cálculo em ureter esquerdo",
+    "status": "ANORMAL",
+    "orgao": "RIM ESQUERDO"
+  },
+  {
+    "codigo": "PECA",
+    "comentario": "Nota-se estrutura hiperecogênica, formadora de sombreamento acústico posterior, medindo <var1> cm em pelve renal.",
+    "impressao_diagnostica": "Cálculo em pelve renal esquerda.",
+    "status": "ANORMAL",
+    "orgao": "RIM ESQUERDO"
+  },
+  {
+    "codigo": "PEHID",
+    "comentario": "Pelve renal dilatada evoluindo para processo de hidronefrose, medindo <var1> cm",
+    "impressao_diagnostica": "Pielectasia esquerda evoluindo para hidronefrose.",
+    "status": "ANORMAL",
+    "orgao": "RIM ESQUERDO"
+  },
+  {
+    "codigo": "CALCRE",
+    "comentario": "Estrutura hiperecogênica, formadora de sombreamento acústico posterior, medindo <var1> cm em divertículo renal.",
+    "impressao_diagnostica": "Cálculo em rim esquerdo.",
+    "status": "ANORMAL",
+    "orgao": "RIM ESQUERDO"
+  },
+  {
+    "codigo": "REHID",
+    "comentario": "Pelve renal dilatada evoluindo para processo de hidronefrose, medindo <var1> cm",
+    "impressao_diagnostica": "Pielectasia esquerda evoluindo para hidronefrose.",
+    "status": "ANORMAL",
+    "orgao": "RIM ESQUERDO"
+  },
+  {
+    "codigo": "PECALC",
+    "comentario": "Nota-se estrutura hiperecogênica, formadora de sombreamento acústico posterior, medindo <var1> cm em pelve renal.",
+    "impressao_diagnostica": "Cálculo em pelve renal esquerda.",
+    "status": "ANORMAL",
+    "orgao": "RIM ESQUERDO"
+  },
+  {
+    "codigo": "RED",
+    "comentario": "diminuído de tamanho, medindo <var1> cm de comprimento em plano dorsal.",
+    "impressao_diagnostica": "Rim esquerdo: provável nefropatia, caso clinicamente indicado sugere-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "RIM ESQUERDO"
+  },
+  {
+    "codigo": "RECI",
+    "comentario": "em cortical ventral nota-se estrutura circular, anecogênica, margens regulares e limites bem definidos, medindo <var1> cm.",
+    "impressao_diagnostica": "Cisto em cortical renal esquerda.",
+    "status": "ANORMAL",
+    "orgao": "RIM ESQUERDO"
+  },
+  {
+    "codigo": "REMAHI",
+    "comentario": "Mesentério adjacente ao rim esquerdo hiperecogênico.",
+    "impressao_diagnostica": "O aumento de ecogenicidade em mesentério adjacente ao rim esquerdo pode ser um indicativo de reatividade a processo inflamatório/infeccioso.",
+    "status": "ANORMAL",
+    "orgao": "RIM ESQUERDO"
+  },
+  {
+    "codigo": "RECA",
+    "comentario": "Estrutura hiperecogênica, formadora de sombreamento acústico posterior, medindo <var1> cm em divertículo renal.",
+    "impressao_diagnostica": "Cálculo em rim esquerdo.",
+    "status": "ANORMAL",
+    "orgao": "RIM ESQUERDO"
+  },
+  {
+    "codigo": "REDC",
+    "comentario": "diminuído de tamanho, medindo <var1> cm, importante perda da relação e diferenciação corticomedular. Cortical apresentando ecogenicidade mista, predominantemente hiperecogênica, contornos irregulares.",
+    "impressao_diagnostica": "Rim esquerdo: nefropatia crônica, não podendo descartar por completo processo congênito.",
+    "status": "ANORMAL",
+    "orgao": "RIM ESQUERDO"
+  },
+  {
+    "codigo": "REPRD",
+    "comentario": "rim esquerdo com tamanho preservado, medindo <var1> cm, pouca moderada da diferenciação corticomedular. Relação corticomedular preservada.",
+    "impressao_diagnostica": "Rins: não se descarta mefropatia.",
+    "status": "ANORMAL",
+    "orgao": "RIM ESQUERDO"
+  },
+  {
+    "codigo": "REDPD",
+    "comentario": "rim esquerdo com tamanho preservado, medindo <var1> cm, pouca perda da diferenciação corticomedular. Relação corticomedular preservada.",
+    "impressao_diagnostica": "Não se descarta nefropatia. Caso clinicamente indicado, sugere-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "RIM ESQUERDO"
+  },
+  {
+    "codigo": "REPDC",
+    "comentario": "rim esquerdo com tamanho preservado, medindo <var1> cm, pouca perda da diferenciação corticomedular. Relação corticomedular preservada.",
+    "impressao_diagnostica": "Não se descarta nefropatia. Caso clinicamente indicado, sugere-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "RIM ESQUERDO"
+  },
+  {
+    "codigo": "REMPR",
+    "comentario": "Tamanho preservado, medindo <var1> cm, perda moderada da relação corticomedular, diferenciação preservada.",
+    "impressao_diagnostica": "Rim esquerdo: não se descarta nefropatia, caso clinicamente indicado sugere-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "RIM ESQUERDO"
+  },
+  {
+    "codigo": "REMPRD",
+    "comentario": "Medindo <var1> cm de comprimento em plano dorsal, com moderada perda da relação e diferenciação corticomedular.",
+    "impressao_diagnostica": "Rim esquerdo: não se descarta nefropatia, caso clinicamente indicado sugere-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "RIM ESQUERDO"
+  },
+  {
+    "codigo": "RECHIF",
+    "comentario": "formato mantido e localizado em topografia habitual, medindo <var1> cm de comprimento em plano dorsal. Com aumento de ecogenicidade de corticais. Não há evidências sonográficas de hidronefrose ou imagens compatíveis com cálculos.",
+    "impressao_diagnostica": "Rim esquerdo: O aumento de ecogenicidade de cortical renal é compatível com a idade ou peso do paciente, porém frente, suspeita de nefropatia aguda, sugere-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "RIM ESQUERDO"
+  },
+  {
+    "codigo": "CISTORE",
+    "comentario": "Em cortical se nota múltiplas pequenas estruturas circulares, anecogênicas, de margens regulares e limites bem definidos, medindo a maior <var1> cm.",
+    "impressao_diagnostica": "Cisto em rim esquerdo",
+    "status": "ANORMAL",
+    "orgao": "RIM ESQUERDO"
+  },
+  {
+    "codigo": "RESE",
+    "comentario": "formato mantido e localizado em topografia habitual, medindo <var1> cm de comprimento em plano dorsal. Perda da relação corticomedular, estando a cortical espessada.",
+    "impressao_diagnostica": "Rim esquerdo: provável processo de senescência, porém frente a suspeita de nefropatia, caso clinicamente indicado sugere-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "RIM ESQUERDO"
+  },
+  {
+    "codigo": "PEPDC",
+    "comentario": "CÓDIGO SEM DESCRIÇÃO - CASPER VAI PASSAR ATUALIZAÇÃO E ENTÃO ATUALIZAREI AQUI",
+    "impressao_diagnostica": null,
+    "status": "ANORMAL",
+    "orgao": "RIM ESQUERDO"
+  },
+  {
+    "codigo": "RECHI",
+    "comentario": "formato mantido e localizado em topografia habitual, medindo <var1> cm de comprimento em plano dorsal. Com aumento de ecogenicidade de corticais. Não há evidências sonográficas de hidronefrose ou imagens compatíveis com cálculos.",
+    "impressao_diagnostica": "Rim esquerdo: O aumento de ecogenicidade de cortical renal é compatível com a idade ou peso do paciente, porém frente, suspeita de nefropatia aguda, sugere-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "RIM ESQUERDO"
+  },
+  {
+    "codigo": "REA",
+    "comentario": "Aumentado de tamanho, medindo <var1> cm de comprimento em plano dorsal.",
+    "impressao_diagnostica": "Nefromegalia esquerda podendo estar relacionada a nefropatia aguda.",
+    "status": "ANORMAL",
+    "orgao": "RIM ESQUERDO"
+  },
+  {
+    "codigo": "PEHIDRO",
+    "comentario": "Pelve renal dilatada evoluindo para processo de hidronefrose, medindo <var1> cm",
+    "impressao_diagnostica": "Pielectasia esquerda evoluindo para hidronefrose.",
+    "status": "ANORMAL",
+    "orgao": "RIM ESQUERDO"
+  },
+  {
+    "codigo": "PE",
+    "comentario": "Pelve renal dilatada, medindo <var1> cm.",
+    "impressao_diagnostica": "Pielectasia Esquerda",
+    "status": "ANORMAL",
+    "orgao": "RIM ESQUERDO"
+  },
+  {
+    "codigo": "REFCHI",
+    "comentario": "formato mantido e localizado em topografia habitual, medindo <var1> cm de comprimento em plano dorsal. Com aumento de ecogenicidade de corticais. Não há evidências sonográficas de hidronefrose ou imagens compatíveis com cálculos.",
+    "impressao_diagnostica": "Rim esquerdo: O aumento de ecogenicidade de cortical renal é compatível com a idade ou peso do paciente, porém frente, suspeita de nefropatia aguda, sugere-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "RIM ESQUERDO"
+  },
+  {
+    "codigo": "RECVI",
+    "comentario": "formato mantido e localizado em topografia habitual. Com cortical irregular. Não há evidências sonográficas de hidronefrose ou imagens compatíveis com cálculos.",
+    "impressao_diagnostica": "Rim esquerdo: não se descarta nefropatia, sugere-se exames complementares.",
+    "status": "ANORMAL",
+    "orgao": "RIM ESQUERDO"
+  },
+  {
+    "codigo": "RESM",
+    "comentario": "<var1> cm de comprimento em plano dorsal. Visibiliza-se imagem hiperecogênica que margeia medular renal",
+    "impressao_diagnostica": "O sinal da medular renal  pode estar relacionada com nefropatia ou mesmo um achado em pacientes normais, sugere-se associação com demais achados.",
+    "status": "ANORMAL",
+    "orgao": "RIM ESQUERDO"
+  },
+  {
+    "codigo": "RE",
+    "comentario": "<var1> cm de comprimento em plano dorsal.",
+    "impressao_diagnostica": null,
+    "status": "NORMAL",
+    "orgao": "RIM ESQUERDO"
+  },
+  {
+    "codigo": "TDECAB",
+    "comentario": "Falta descrição e impressão diagnóstica do código TDECAB",
+    "impressao_diagnostica": "Falta descrição e impressão diagnóstica do código TDECAB",
+    "status": "ANORMAL",
+    "orgao": "TESTÍCULOS"
+  },
+  {
+    "codigo": "TEECAB",
+    "comentario": "Falta descrição e impressão diagnóstica do código TEECAB",
+    "impressao_diagnostica": "Falta descrição e impressão diagnóstica do código TEECAB",
+    "status": "ANORMAL",
+    "orgao": "TESTÍCULOS"
+  },
+  {
+    "codigo": "TESTEC",
+    "comentario": "Em linha média subcutânea inguinal nota-se testículo medindo <var1>  cm x <var2> cm, com forma, contorno, ecogenicidade e ecotextura preservadas.",
+    "impressao_diagnostica": "Testículo ectópico, localizado em região subcutânea inguinal no momento deste exame.",
+    "status": "ANORMAL",
+    "orgao": "TESTÍCULOS"
+  },
+  {
+    "codigo": "TEMINE",
+    "comentario": "testículo esquerdo com tamanho preservado. apresentando parênquima heterogêneo, multifocos hiperecogênicos, formadores de sombreamento acústico posterior.",
+    "impressao_diagnostica": "Testículo esquerdo apresentando mineralização de parênquima, podendo estar relacionado a senescência ou processo neoplásico.",
+    "status": "ANORMAL",
+    "orgao": "TESTÍCULOS"
+  },
+  {
+    "codigo": "LLESC",
+    "comentario": "Nota-se quantidade de conteúdo anecogênico livre em bolsa escrotal no momento deste exame.",
+    "impressao_diagnostica": "Líquido livre em bolsa escrotal no momento deste exame.",
+    "status": "ANORMAL",
+    "orgao": "TESTÍCULOS"
+  },
+  {
+    "codigo": "TD",
+    "comentario": "medindo <var1> cm x <var2> cm, linha mediastinal preservada.",
+    "impressao_diagnostica": null,
+    "status": "NORMAL",
+    "orgao": "TESTÍCULOS"
+  },
+  {
+    "codigo": "TE",
+    "comentario": "medindo <var1> cm x <var2> cm, linha mediastinal preservada.",
+    "impressao_diagnostica": null,
+    "status": "NORMAL",
+    "orgao": "TESTÍCULOS"
+  },
+  {
+    "codigo": "TDAAR",
+    "comentario": "Testículo direito aumentado de tamanho, e arredondado. - desc e imp a atualizar.",
+    "impressao_diagnostica": "CORRIGIR DESCRIÇÃO E IMPRESSÃO DIAGNÓSTICA DE TDAAR",
+    "status": "ANORMAL",
+    "orgao": "TESTÍCULOS"
+  },
+  {
+    "codigo": "PLLTD",
+    "comentario": "Nota-se pouca quantidade de conteúdo anecogênico livre adjacente ao testículo direito.",
+    "impressao_diagnostica": "Pouca quantidade de líquido livre adjacente ao testículo direito.",
+    "status": "ANORMAL",
+    "orgao": "TESTÍCULOS"
+  },
+  {
+    "codigo": "PLLTE",
+    "comentario": "Nota-se pouca quantidade de conteúdo anecogênico livre adjacente ao testículo esquerdo.",
+    "impressao_diagnostica": "Pouca quantidade de líquido livre adjacente ao testículo esquerdo.",
+    "status": "ANORMAL",
+    "orgao": "TESTÍCULOS"
+  },
+  {
+    "codigo": "TDEP",
+    "comentario": "Testículo direito em bolsa escrotal com perda de sua linha mediastinal, epidídimo esquerdo aumentado medindo <var1> cm, heterogêneo e com a ecogenicidade mista.",
+    "impressao_diagnostica": "Epididimite direita",
+    "status": "ANORMAL",
+    "orgao": "TESTÍCULOS"
+  },
+  {
+    "codigo": "TEEP",
+    "comentario": "Testículo esquerdo em bolsa escrotal com perda de sua linha mediastinal, epidídimo esquerdo aumentado medindo <var1> cm, heterogêneo e com a ecogenicidade mista.",
+    "impressao_diagnostica": "Epididimite esquerda",
+    "status": "ANORMAL",
+    "orgao": "TESTÍCULOS"
+  },
+  {
+    "codigo": "VBIEST",
+    "comentario": "preenchida por adequada quantidade de conteúdo anecogênico em parede dorsal nota-se importante quantidade de material ecogênico depositado em fundo.",
+    "impressao_diagnostica": "Vesícula biliar: importante quantidade de lama biliar, podendo estar relacionada a hipofunção motora biliar (senescência) ou comorbidades que levem a alteração da composição da bile.",
+    "status": "ANORMAL",
+    "orgao": "VESÍCULA BILIAR"
+  },
+  {
+    "codigo": "CAVB",
+    "comentario": "repleta, paredes finas e ecogênicas com conteúdo anecogênico e homogêneo. Em parede dorsal nota-se estrutura hiperecogênica, formadora de sombreamento acústico posterior, medindo <var1> cm.",
+    "impressao_diagnostica": "Cálculo em vesícula biliar.",
+    "status": "ANORMAL",
+    "orgao": "VESÍCULA BILIAR"
+  },
+  {
+    "codigo": "VBIEB",
+    "comentario": "preenchida por adequada quantidade de conteúdo anecogênico em parede dorsal nota-se moderada quantidade de material ecogênico depositado em fundo.",
+    "impressao_diagnostica": "Vesícula biliar: importante quantidade de lama biliar, podendo estar relacionada a hipofunção motora biliar (senescência) ou comorbidades que levem a alteração da composição da bile.",
+    "status": "ANORMAL",
+    "orgao": "VESÍCULA BILIAR"
+  },
+  {
+    "codigo": "VBMP",
+    "comentario": "repleta, paredes finas e ecogênicas com conteúdo anecogênico associado a importante quantidade de conteúdo ecogênico. Padrão de estriações ecogênicas radiando das paredes para o centro – mucocele parcial.",
+    "impressao_diagnostica": "Vesícula biliar: dilatada com aspectos ultrassonográficos de formação de mucocele parcial. Sem sinal ultrassonográfico de obstrução no momento deste exame.",
+    "status": "ANORMAL",
+    "orgao": "VESÍCULA BILIAR"
+  },
+  {
+    "codigo": "DBCINF",
+    "comentario": "ductos biliar comum pouco dilatado medindo <var1> cm, paredes espessadas. Lumen preenchido por discreta quantidade de conteúdo ecumênico (lama biliar)",
+    "impressao_diagnostica": "Convite (provável) associado a estase biliar.",
+    "status": "ANORMAL",
+    "orgao": "VESÍCULA BILIAR"
+  },
+  {
+    "codigo": "VBDEB",
+    "comentario": "preenchida por adequada quantidade de conteúdo anecogênico. Em parede dorsal nota-se discreta quantidade de material ecogênico depositado em fundo.",
+    "impressao_diagnostica": "Vesícula biliar: moderada quantidade de lama biliar, podendo estar relacionada a hipofunção motora biliar (senescência) ou comorbidades que levem a alteração da composição da bile.",
+    "status": "ANORMAL",
+    "orgao": "VESÍCULA BILIAR"
+  },
+  {
+    "codigo": "VBMC",
+    "comentario": "repleta por conteúdo anecogênico e com moderado material ecogênico depositado em fundo (lama biliar), alguns destes agregados formando concreções aderidas em parede.",
+    "impressao_diagnostica": "Vesícula biliar: moderada quantidade de lama biliar, formando concreções. Podendo estar relacionada a hipofunção motora biliar (senescência) ou comorbidades que levem a alteração da composição da bile.",
+    "status": "ANORMAL",
+    "orgao": "VESÍCULA BILIAR"
+  },
+  {
+    "codigo": "VBMEB",
+    "comentario": "preenchida por adequada quantidade de conteúdo anecogênico em parede dorsal nota-se moderada quantidade de material ecogênico depositado em fundo.",
+    "impressao_diagnostica": "Vesícula biliar: moderada quantidade de lama biliar, podendo estar relacionada a hipofunção motoraevem a alteração da composição da bile.",
+    "status": "ANORMAL",
+    "orgao": "VESÍCULA BILIAR"
+  },
+  {
+    "codigo": "VBBD",
+    "comentario": "repleta, paredes em borda dupla, ecogênicas, apresentando halo hipoecogênico central, com conteúdo anecogênico e homogêneo.",
+    "impressao_diagnostica": "Vesícula biliar: o edema de parede tem como principais diferenciais: choque anafilático, hipoproteinemia, colecistite, anemia imunomediada ou problemas em tórax, como efusão pericárdica e/ou insuficiência cardíaca congestiva direita.",
+    "status": "ANORMAL",
+    "orgao": "VESÍCULA BILIAR"
+  },
+  {
+    "codigo": "VBCALC",
+    "comentario": "repleta, paredes finas e ecogênicas com conteúdo anecogênico e homogêneo. Em parede dorsal nota-se estrutura hiperecogênica, formadora de sombreamento acústico posterior, medindo <var1> cm.",
+    "impressao_diagnostica": "Cálculo em vesícula biliar.",
+    "status": "ANORMAL",
+    "orgao": "VESÍCULA BILIAR"
+  },
+  {
+    "codigo": "VB CALC",
+    "comentario": "repleta, paredes finas e ecogênicas com conteúdo anecogênico e homogêneo. Em parede dorsal nota-se estrutura hiperecogênica, formadora de sombreamento acústico posterior, medindo <var1> cm.",
+    "impressao_diagnostica": "Cálculo em vesícula biliar.",
+    "status": "ANORMAL",
+    "orgao": "VESÍCULA BILIAR"
+  },
+  {
+    "codigo": "CALC VB",
+    "comentario": "repleta, paredes finas e ecogênicas com conteúdo anecogênico e homogêneo. Em parede dorsal nota-se estrutura hiperecogênica, formadora de sombreamento acústico posterior, medindo <var1> cm.",
+    "impressao_diagnostica": "Cálculo em vesícula biliar.",
+    "status": "ANORMAL",
+    "orgao": "VESÍCULA BILIAR"
+  },
+  {
+    "codigo": "VBPEB",
+    "comentario": "preenchida por adequada quantidade de conteúdo anecogênico em parede dorsal nota-se pouca quantidade de material ecogênico depositado em fundo.",
+    "impressao_diagnostica": "Vesícula biliar: discreta quantidade de lama biliar, podendo estar relacionada a hipofunção motora biliar (senescência) ou comorbidades que levem a alteração da composição da bile.",
+    "status": "ANORMAL",
+    "orgao": "VESÍCULA BILIAR"
+  },
+  {
+    "codigo": "VBDIL",
+    "comentario": "repleta, paredes espessadas, medindo <var1> cm e hiperecogênicas com conteúdo anecogênico e homogêneo.",
+    "impressao_diagnostica": "Vesícula biliar: processo inflamatório/infeccioso (colecistite).",
+    "status": "ANORMAL",
+    "orgao": "VESÍCULA BILIAR"
+  },
+  {
+    "codigo": "COLANGITE",
+    "comentario": "ducto biliar comum, dilatado, medindo <var1> cm, paredes espessadas e irregulares, preenchido por conteúdo anecogênico.",
+    "impressao_diagnostica": "Ducto biliar comum: processo inflamatório / infeccioso (colangite)",
+    "status": "ANORMAL",
+    "orgao": "VESÍCULA BILIAR"
+  },
+  {
+    "codigo": "COLECISTITE",
+    "comentario": "repleta, paredes espessadas, medindo <var1> cm e hiperecogênicas com conteúdo anecogênico e homogêneo.",
+    "impressao_diagnostica": null,
+    "status": "ANORMAL",
+    "orgao": "VESÍCULA BILIAR"
+  },
+  {
+    "codigo": "VBESP",
+    "comentario": "repleta, paredes espessadas, medindo <var1> cm e hiperecogênicas com conteúdo anecogênico e homogêneo.",
+    "impressao_diagnostica": "Vesícula biliar: processo inflamatório/infeccioso (colecistite).",
+    "status": "ANORMAL",
+    "orgao": "VESÍCULA BILIAR"
+  },
+  {
+    "codigo": "VB ESP",
+    "comentario": "repleta, paredes espessadas, medindo <var1> cm e hiperecogênicas com conteúdo anecogênico e homogêneo.",
+    "impressao_diagnostica": "Vesícula biliar: processo inflamatório/infeccioso (colecistite).",
+    "status": "ANORMAL",
+    "orgao": "VESÍCULA BILIAR"
+  },
+  {
+    "codigo": "LAMA BILIAR",
+    "comentario": "preenchida por adequada quantidade de conteúdo anecogênico em parede dorsal nota-se pouca/moderada/importante quantidade de material ecogênico depositado em fundo.",
+    "impressao_diagnostica": "Vesícula biliar: moderada/discreta/importante quantidade de lama biliar, podendo estar relacionada a hipofunção motora biliar (senilidade) ou comorbidades que levem a alteração da composição da bile.",
+    "status": "ANORMAL",
+    "orgao": "VESÍCULA BILIAR"
+  },
+  {
+    "codigo": "ESTASE BILIAR",
+    "comentario": "preenchida por adequada quantidade de conteúdo anecogênico. Em parede dorsal nota-se moderada quantidade de material ecogênico.",
+    "impressao_diagnostica": "Vesícula biliar: moderada quantidade de lama biliar, podendo estar relacionada a hipofunção motora biliar (senilidade) ou comorbidades que levem a alteração da composição da bile.",
+    "status": "ANORMAL",
+    "orgao": "VESÍCULA BILIAR"
+  },
+  {
+    "codigo": "PIO",
+    "comentario": "Corpo de útero aumentado de tamanho medindo <var1> cm, preenchido por conteúdo anecogênico e com moderada quantidade de pontos ecogênicos em suspensão. Paredes espessas e irregulares.",
+    "impressao_diagnostica": "Útero: processo inflamatório / infeccioso (piometra/mucometra).",
+    "status": "ANORMAL",
+    "orgao": "ÚTERO"
+  },
+  {
+    "codigo": "UTP",
+    "comentario": "Corpo de útero aumentado de tamanho medindo <var1> cm, preenchido por conteúdo anecogênico e com moderada quantidade de pontos ecogênicos em suspensão. Paredes espessas e irregulares.",
+    "impressao_diagnostica": "Útero: processo inflamatório / infeccioso (piometra/mucometra).",
+    "status": "ANORMAL",
+    "orgao": "ÚTERO"
+  },
+  {
+    "codigo": "CUD",
+    "comentario": "corno uterino direito medindo aproximadamente <var1> cm, paredes finas e regulares.",
+    "impressao_diagnostica": null,
+    "status": "NORMAL",
+    "orgao": "ÚTERO"
+  },
+  {
+    "codigo": "CUE",
+    "comentario": "corno uterino esquerdo medindo aproximadamente <var1> cm, paredes finas e regulares.",
+    "impressao_diagnostica": null,
+    "status": "NORMAL",
+    "orgao": "ÚTERO"
+  },
+  {
+    "codigo": "CALCUD",
+    "comentario": "Nota-se estrutura hiperecogênica, formadora de sombreamento acústico posterior, medindo <var1> cm em corno uterino direito.",
+    "impressao_diagnostica": "Cálculo em corno uterino direito.",
+    "status": "ANORMAL",
+    "orgao": "ÚTERO"
+  },
+  {
+    "codigo": "CALCUE",
+    "comentario": "Nota-se estrutura hiperecogênica, formadora de sombreamento acústico posterior, medindo <var1> cm em corno uterino esquerdo.",
+    "impressao_diagnostica": "Cálculo em corno uterino esquerdo.",
+    "status": "ANORMAL",
+    "orgao": "ÚTERO"
+  },
+  {
+    "codigo": "PIOC",
+    "comentario": "cornos uterinos não caracterizados - histórico de ovários alpingo histerectomia. Corpo de útero aumentado de tamanho, medindo <var1> cm x <var2> cm. Preechido por conteúdo fluido com grande quantidade de pontos ecogênicos. Mesentério adjacente hiperecóico.",
+    "impressao_diagnostica": "Piometra de coto.",
+    "status": "ANORMAL",
+    "orgao": "ÚTERO"
+  },
+  {
+    "codigo": "CUEHEC",
+    "comentario": "Corno uterino esquerdo e corpo de útero aumentados de tamanho (medindo aproximadamente <var1> cm) preenchidos por pouco conteúdo anecogênico com moderada quantidade de pontos ecogênicos em suspensão. Paredes espessas e irregulares. Múltiplas estruturas circulares anecogênicas entremeadas em endométrio",
+    "impressao_diagnostica": "Útero: processo inflamatório / infeccioso (hiperplasia endometrial cística).",
+    "status": "ANORMAL",
+    "orgao": "ÚTERO"
+  },
+  {
+    "codigo": "FETOSM",
+    "comentario": "Fetos sem batimentos cardíacos, com líquido aminiótico ecogênico e em pequena quantidade, com paredes uterinas espessas e irregulares. Presença de gás intrauterino.",
+    "impressao_diagnostica": "Aspectos ultrassonográficos indicam processo inflamatório/infeccioso associado a morte fetal.",
+    "status": "ANORMAL",
+    "orgao": "ÚTERO"
+  },
+  {
+    "codigo": "AHIPC",
+    "comentario": "áreas hiperecogênicas em topografia anatômica de ovários e corpo de útero — estado pós cirúrgico (histórico de ováriosalpingohisterectomia recente) — dentro da normalidade.",
+    "impressao_diagnostica": null,
+    "status": "NORMAL",
+    "orgao": "ÚTERO"
+  },
+  {
+    "codigo": "CUEPPT",
+    "comentario": "Corno uterino esquerdo discretamente aumentado de tamanho, medindo <var1> cm, com paredes finas e irregulares, preenchida por pouca quantidade de conteúdo ecogênico.",
+    "impressao_diagnostica": "Corno uterino esquerdo: imagens ultrassonográficas são compatíveis com útero pós parto tardio, caso clinicamente indicado sugere-se acompanhamento.",
+    "status": "ANORMAL",
+    "orgao": "ÚTERO"
+  },
+  {
+    "codigo": "CUDPPT",
+    "comentario": "Corno uterino direito discretamente aumentado de tamanho, medindo <var1> cm, com paredes finas e irregulares, preenchida por pouca quantidade de conteúdo ecogênico.",
+    "impressao_diagnostica": "Corno uterino direito: imagens ultrassonográficas são compatíveis com útero pós parto tardio, caso clinicamente indicado sugere-se acompanhamento.",
+    "status": "ANORMAL",
+    "orgao": "ÚTERO"
+  },
+  {
+    "codigo": "UTPP",
+    "comentario": "Corpo de útero discretamente aumentado de tamanho, medindo <var1> cm, com paredes finas e irregulares, preenchida por pouca quantidade de conteúdo ecogênico.",
+    "impressao_diagnostica": "Útero: imagens ultrassonográficas são compatíveis com útero pós parto tardio, caso clinicamente indicado sugere-se acompanhamento.",
+    "status": "ANORMAL",
+    "orgao": "ÚTERO"
+  },
+  {
+    "codigo": "CUE HID",
+    "comentario": "corno uterino esquerdo aumentado de tamanho medindo <var1> cm, preenchido por conteúdo anecogênico e com moderada quantidade de pontos ecogênicos em suspensão. Paredes espessas e irregulares.",
+    "impressao_diagnostica": "Corno uterino esquerdo: provável processo inflamatório / infeccioso. (hidrometra/mucometra).",
+    "status": "ANORMAL",
+    "orgao": "ÚTERO"
+  },
+  {
+    "codigo": "CUEHID",
+    "comentario": "corno uterino esquerdo aumentado de tamanho medindo <var1> cm, preenchido por conteúdo anecogênico e com moderada quantidade de pontos ecogênicos em suspensão. Paredes espessas e irregulares.",
+    "impressao_diagnostica": "Corno uterino esquerdo: provável processo inflamatório / infeccioso. (hidrometra/mucometra).",
+    "status": "ANORMAL",
+    "orgao": "ÚTERO"
+  },
+  {
+    "codigo": "CUD HID",
+    "comentario": "corno uterino direito aumentado de tamanho medindo <var1> cm, preenchido por conteúdo anecogênico e com moderada quantidade de pontos ecogênicos em suspensão. Paredes espessas e irregulares.",
+    "impressao_diagnostica": "Corno uterino direito: provável processo inflamatório / infeccioso. (hidrometra/mucometra).",
+    "status": "ANORMAL",
+    "orgao": "ÚTERO"
+  },
+  {
+    "codigo": "CUDHID",
+    "comentario": "corno uterino direito aumentado de tamanho medindo <var1> cm, preenchido por conteúdo anecogênico e com moderada quantidade de pontos ecogênicos em suspensão. Paredes espessas e irregulares.",
+    "impressao_diagnostica": "Corno uterino direito: provável processo inflamatório / infeccioso. (hidrometra/mucometra).",
+    "status": "ANORMAL",
+    "orgao": "ÚTERO"
+  },
+  {
+    "codigo": "VAG",
+    "comentario": "canal vaginal apresentando paredes finas e regulares associado à pouca quantidade de conteúdo anecogênico, medindo <var1> cm.",
+    "impressao_diagnostica": "Pouca quantidade de conteúdo em canal vaginal, podendo estar relacionado a processo inflamatório / infeccioso (vaginite).",
+    "status": "ANORMAL",
+    "orgao": "ÚTERO"
+  },
+  {
+    "codigo": "CUE PIO",
+    "comentario": "corno uterino esquerdo aumentado de tamanho medindo <var1> cm, preenchido por conteúdo anecogênico e com moderada quantidade de pontos ecogênicos em suspensão. Paredes espessas e irregulares.",
+    "impressao_diagnostica": "Corno uterino esquerdo: provável processo inflamatório / infeccioso. (hidrometra/mucometra).",
+    "status": "ANORMAL",
+    "orgao": "ÚTERO"
+  },
+  {
+    "codigo": "CUEPIO",
+    "comentario": "corno uterino esquerdo aumentado de tamanho medindo <var1> cm, preenchido por conteúdo anecogênico e com moderada quantidade de pontos ecogênicos em suspensão. Paredes espessas e irregulares.",
+    "impressao_diagnostica": "Corno uterino esquerdo: provável processo inflamatório / infeccioso. (hidrometra/mucometra).",
+    "status": "ANORMAL",
+    "orgao": "ÚTERO"
+  },
+  {
+    "codigo": "CUD PIO",
+    "comentario": "corno uterino direito aumentado de tamanho medindo <var1> cm, preenchido por conteúdo anecogênico e com moderada quantidade de pontos ecogênicos em suspensão. Paredes espessas e irregulares.",
+    "impressao_diagnostica": "Corno uterino direito: provável processo inflamatório / infeccioso. (hidrometra/mucometra).",
+    "status": "ANORMAL",
+    "orgao": "ÚTERO"
+  },
+  {
+    "codigo": "CUDPIO",
+    "comentario": "corno uterino direito aumentado de tamanho medindo <var1> cm, preenchido por conteúdo anecogênico e com moderada quantidade de pontos ecogênicos em suspensão. Paredes espessas e irregulares.",
+    "impressao_diagnostica": "Corno uterino direito: provável processo inflamatório / infeccioso. (hidrometra/mucometra).",
+    "status": "ANORMAL",
+    "orgao": "ÚTERO"
+  },
+  {
+    "codigo": "UT PIO",
+    "comentario": "Corpo de útero aumentado de tamanho medindo <var1> cm, preenchido por conteúdo anecogênico e com moderada quantidade de pontos ecogênicos em suspensão. Paredes espessas e irregulares.",
+    "impressao_diagnostica": "Útero: processo inflamatório / infeccioso (piometra/mucometra).",
+    "status": "ANORMAL",
+    "orgao": "ÚTERO"
+  },
+  {
+    "codigo": "UTPIO",
+    "comentario": "Corpo de útero aumentado de tamanho medindo <var1> cm, preenchido por conteúdo anecogênico e com moderada quantidade de pontos ecogênicos em suspensão. Paredes espessas e irregulares.",
+    "impressao_diagnostica": "Útero: processo inflamatório / infeccioso (piometra/mucometra).",
+    "status": "ANORMAL",
+    "orgao": "ÚTERO"
+  },
+  {
+    "codigo": "UT",
+    "comentario": "Corpo de útero dentro da normalidade, medindo <var1> cm, com ecotextura e ecogenicidade preservados.",
+    "impressao_diagnostica": null,
+    "status": "NORMAL",
+    "orgao": "ÚTERO"
+  },
+  {
+    "codigo": "UTPPINF",
+    "comentario": "corpo de útero aumentado de tamanho medindo <var1> cm, preenchido por conteúdo ecogênico com moderada quantidade de pontos ecogênicos em suspensão. Paredes espessas e irregulares.",
+    "impressao_diagnostica": "Útero: processo inflamatório / infeccioso (piometra/mucometra).",
+    "status": "ANORMAL",
+    "orgao": "ÚTERO"
+  },
+  {
+    "codigo": "UTHIDRO",
+    "comentario": "Corpo de útero aumentado de tamanho medindo <var1> cm, preenchido por conteúdo anecogênico e com moderada quantidade de pontos ecogênicos em suspensão. Paredes espessas e irregulares.",
+    "impressao_diagnostica": "Útero: provável processo inflamatório / infeccioso. (hidrometra/mucometra).",
+    "status": "ANORMAL",
+    "orgao": "ÚTERO"
+  },
+  {
+    "codigo": "CUDHIDRO",
+    "comentario": "corno uterino direito aumentado de tamanho medindo <var1> cm, preenchido por conteúdo anecogênico e com moderada quantidade de pontos ecogênicos em suspensão. Paredes espessas e irregulares.",
+    "impressao_diagnostica": "Corno uterino direito: provável processo inflamatório / infeccioso. (hidrometra/mucometra).",
+    "status": "ANORMAL",
+    "orgao": "ÚTERO"
+  },
+  {
+    "codigo": "CUD HIDRO",
+    "comentario": "corno uterino direito aumentado de tamanho medindo <var1> cm, preenchido por conteúdo anecogênico e com moderada quantidade de pontos ecogênicos em suspensão. Paredes espessas e irregulares.",
+    "impressao_diagnostica": "Corno uterino direito: provável processo inflamatório / infeccioso. (hidrometra/mucometra).",
+    "status": "ANORMAL",
+    "orgao": "ÚTERO"
+  },
+  {
+    "codigo": "CUEHIDRO",
+    "comentario": "corno uterino esquerdo aumentado de tamanho medindo <var1> cm, preenchido por conteúdo anecogênico e com moderada quantidade de pontos ecogênicos em suspensão. Paredes espessas e irregulares.",
+    "impressao_diagnostica": "Corno uterino esquerdo: provável processo inflamatório / infeccioso. (hidrometra/mucometra).",
+    "status": "ANORMAL",
+    "orgao": "ÚTERO"
+  },
+  {
+    "codigo": "CUE HIDRO",
+    "comentario": "corno uterino esquerdo aumentado de tamanho medindo <var1> cm, preenchido por conteúdo anecogênico e com moderada quantidade de pontos ecogênicos em suspensão. Paredes espessas e irregulares.",
+    "impressao_diagnostica": "Corno uterino esquerdo: provável processo inflamatório / infeccioso. (hidrometra/mucometra).",
+    "status": "ANORMAL",
+    "orgao": "ÚTERO"
+  },
+  {
+    "codigo": "CUECUD",
+    "comentario": "cornos uterinos medindo aproximadamente <var1>, paredes finas e regulares.",
+    "impressao_diagnostica": null,
+    "status": "NORMAL",
+    "orgao": "ÚTERO"
+  }
+]

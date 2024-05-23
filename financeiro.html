@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Finance</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.datatables.net/1.10.21/css/jquery.dataTables.min.css" rel="stylesheet" type="text/css"/>
+    <link href="https://cdn.datatables.net/1.10.21/css/dataTables.bootstrap4.min.css" rel="stylesheet" type="text/css"/>
+    <link href="https://cdn.datatables.net/2.0.7/css/dataTables.bootstrap5.css" rel="stylesheet">
+    <link href="https://cdn.datatables.net/2.0.7/css/dataTables.bootstrap5.css" rel="stylesheet">
+    <link href="https://cdn.datatables.net/2.0.7/css/dataTables.bootstrap5.css" rel="stylesheet">
+</head>
+<body>
+<header>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="financeiro.html">Financeiro</a></li>
+            <li><a href="lista-de-codigos.html">Lista De Códigos</a></li>
+            <li><a href="api.html">API</a></li>
+            <li><a href="conf.html">Configurações</a></li>
+        </ul>
+    </nav>
+    <h1>Adams Company</h1>
+    <h2>Exames</h2>
+
+    <table class="table table-striped" id="finance">
+        <thead>
+            <tr>
+                <th>Nome</th>
+                <th>Valor</th>
+                <th>Data</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Nome</td>
+                <td>Valor</td>
+                <td>Data</td>
+            </tr>
+        </tbody>
+    </table>
+    <div class="pagination">
+        <button id="prevPage" onclick="prevPage()">Anterior</button>
+        <span id="pageNumber"></span>
+        <button id="nextPage" onclick="nextPage()">Próxima</button>
+    </div>
+    <h2>Financeiro</h2>
+    <table class="display" id="financeiroTable">
+    </table>
+</header>
+<script src="scripts.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://cdn.datatables.net/1.10.24/js/jquery.dataTables.min.js"></script>
+<script src="https://cdn.datatables.net/1.10.21/js/dataTables.bootstrap4.min.js"></script>
+<script src="https://cdn.datatables.net/2.0.7/js/jquery.dataTables.min.js"></script>
+<script src="https://cdn.datatables.net/2.0.7/js/dataTables.bootstrap5.js"></script>
+<script>
+    // Fetch the data
+    $.getJSON('financeiro.json', function (data) {
+        // Create a table
+        $('#financeiroTable').DataTable({
+            data: data,
+            columns: [
+                {title: 'ID'},
+                {title: 'Nome'},
+                {title: 'Valor'},
+                {title: 'Data'},
+                {title: 'Status'}
+            ]
+        });
+    });
+
+    // Fetch the data
+    $.getJSON('finance.json', function (data) {
+        // Create a table
+        $('#finance').DataTable({
+            data: data,
+            columns: [
+                {title: 'Nome'},
+                {title: 'Valor'},
+                {title: 'Data'}
+            ]
+        });
+    });
+</script>
+</body>
+</html>

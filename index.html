@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Editor de Laudos</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+</head>
+<body>
+<header>
+    <nav aria-label="Main Navigation">
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="financeiro.html">Financeiro</a></li>
+            <li><a href="codemanagement.html">Code Management</a></li>
+            <li><a href="api.html">API</a></li>
+            <li><a href="conf.html">Configurações</a></li>
+            <li><a href="laudo.html">Laudo</a></li>
+            <li><a href="login.html">Login</a></li>
+        </ul>
+    </nav>
+</header>
+
+<main>
+    <div class="container">
+        <h1>Lista de Exames</h1>
+        <label for="search" class="sr-only">Buscar Exame...</label>
+        <input type="text" id="search" placeholder="Buscar Exame..." onkeyup="filterTable()" class="form-control">
+        <table id="examsTable" class="table table-striped table-bordered">
+            <thead>
+            <tr>
+                <th>Patient ID</th>
+                <th>Patient Name</th>
+                <th>Study Description</th>
+                <th>Study Date</th>
+                <th>Referring Physician Name</th>
+                <th>Report</th>
+                <th>Edit Metadata</th>
+                <th>Share</th>
+            </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+        <div class="pagination">
+            <button id="prevPage" onclick="prevPage()" class="btn btn-primary">Anterior</button>
+            <span id="pageNumber"></span>
+            <button id="nextPage" onclick="nextPage()" class="btn btn-primary">Próxima</button>
+        </div>
+    </div>
+</main>
+
+<footer>
+    <p>&copy; 2023 Editor de Laudos. Todos os direitos reservados.</p>
+</footer>
+
+<script src="scripts.js"></script>
+</body>
+</html>
